@@ -12,4 +12,8 @@ navbar:
       href: News.html
     - text: "Publications"
       href: Publications.html
+    - text: "Links"
+      href: Links.html
+    - text: "Contact"
+      href: Contact.html
 output_dir: "docs"
