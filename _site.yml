@@ -5,7 +5,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Project"
-      href: Project.htm
+      href: Project.html
     - text: "Publications"
       href: Publications.html
 output_dir: "docs"
