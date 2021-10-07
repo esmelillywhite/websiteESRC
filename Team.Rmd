@@ -1,0 +1,30 @@
+---
+title: "Team"
+output: html_document
+---
+
+### Project Investigators  
+
+**Markus Klein (PI): ** 
+
+Markus Klein is a Senior Lecturer in Human Development and Education Policy in the School of Education at the University of Strathclyde, a Fellow of the Higher Education Academy, and a Life Course Research Affiliate at the ARC Centre of Excellence for Children and Families over the Life Course at the University of Queensland. Previously he was a postdoctoral research fellow in the ‘Social Stratification and Education’ strand of the ESRC-funded research centre AQMeN (Applied Quantitative Methods Network). Markus studies how and why family socioeconomic status shapes individuals’ development and outcomes at various stages of the life course. His research appears in Sociological Science, Child Development, Sociology, British Journal of Sociology, European Sociological Review or Social Science Research.  
+
+**Edward Sosu (Co-I):  **
+
+Edward Sosu is a Reader, and currently Research Director in the School of Education. He has a strong interest in quantitative methods and in addressing educational issues from a psychological perspective. His current research is predominantly focused on understanding how socioeconomic disadvantage influences educational and psychological trajectories from early childhood.  
+Edward’s research interest cuts across high-, middle- and low-income country contexts. He was the lead author of the influential Joseph Rowntree Foundation report on [Closing the Attainment Gap In Scottish Education](http://www.jrf.org.uk/sites/files/jrf/education-attainment-scotland-full.pdf). He has extensive experience of policy engagement and is keen to find ways that to enable research outcomes to make a difference to the lives of the most vulnerable in society.  
+
+### Research Assistants
+
+**Esme Lillywhite: **
+
+Esme Lillywhite is a current PhD candidate at the University of Strathclyde, working as part of the Institute for Inspiring Children’s Futures Doctoral Research Centre, in the School of Education.  
+
+### Previous Research Associates  
+Dr Shadrach Dare  
+Dr Claire Goodfellow   
+
+### Partners  
+General Teaching Council for Scotland  
+Poverty Alliance
+

@@ -6,6 +6,10 @@ navbar:
       href: index.html
     - text: "Project"
       href: Project.html
+    - text: "Team"
+      href: Team.html
+    - text: "News"
+      href: News.html
     - text: "Publications"
       href: Publications.html
 output_dir: "docs"

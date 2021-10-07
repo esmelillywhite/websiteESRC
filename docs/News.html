@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>News</title>
+
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">ESRC</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="Project.html">Project</a>
+</li>
+<li>
+  <a href="Team.html">Team</a>
+</li>
+<li>
+  <a href="News.html">News</a>
+</li>
+<li>
+  <a href="Publications.html">Publications</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">News</h1>
+
+</div>
+
+
+<p><strong><em>03 June 2021</em></strong></p>
+<p>We presented the paper “School absenteeism and academic achievement: Is missing out on school more detrimental for students from lower socioeconomic backgrounds” at the ISA RC28 Spring Meeting 2021 in Turku (virtual conference). For more information see here: <a href="https://rc28turku.utu.fi/" class="uri">https://rc28turku.utu.fi/</a></p>
+<p><strong><em>24 May 2021</em></strong> Together with Dr Markus Gehrsitz (University of Strathclyde), we organised the Strathclyde Engage Event “Data Can Tell Us ‘What Works’ in Education: Insights from Quantitative Education Research”. <a href="https://www.engage.strath.ac.uk/event/804" class="uri">https://www.engage.strath.ac.uk/event/804</a></p>
+<p>21 May 2021 Dr Claire Cassidy (University of Strathclyde) interviewed us for the School of Education’s podcast series “Meet an academic”: <a href="https://anchor.fm/strathclyde-education/episodes/Podcast-21-Meet-an-academic-Dr--Edward-Sosu-and-Dr--Markus-Klein-e11an8n" class="uri">https://anchor.fm/strathclyde-education/episodes/Podcast-21-Meet-an-academic-Dr--Edward-Sosu-and-Dr--Markus-Klein-e11an8n</a></p>
+<p>27 April 2021 The PI was invited to give a talk in the School of Education at the University of Glasgow and presented a summary of our current project findings.</p>
+<p>20 April 2021 Our paper “Socioeconomic status and school absenteeism: a systematic review and narrative synthesis” was accepted for publication at Review of Education.</p>
+<p>31 March 2021 We published a podcast summarising our first and second research brief as part of Education Scotland’s Signposting Equity Issue 12: <a href="https://sway.office.com/x5EJ7G2hrOjsTgnG?ref=Link" class="uri">https://sway.office.com/x5EJ7G2hrOjsTgnG?ref=Link</a></p>
+<p>25 March 2021</p>
+<p>The media and communications team at Strathclyde published a press release on our second research brief: <a href="https://www.strath.ac.uk/whystrathclyde/news/schoolabsenteeismroseamidpandemic-predominantlyinmoredeprivedareas/" class="uri">https://www.strath.ac.uk/whystrathclyde/news/schoolabsenteeismroseamidpandemic-predominantlyinmoredeprivedareas/</a></p>
+<p>28 February 2021 Our first research brief was discussed in the report “The Poverty-related Attainment Gap: A review of the evidence” by Poverty Alliance and the Robertson Trust. <a href="https://www.povertyalliance.org/wp-content/uploads/2021/02/The-Poverty-related-Attainment-Gap-A-Review-of-the-Evidence-2.pdf" class="uri">https://www.povertyalliance.org/wp-content/uploads/2021/02/The-Poverty-related-Attainment-Gap-A-Review-of-the-Evidence-2.pdf</a></p>
+<p>02 February 2021 Our second research brief was discussed in an article in The Herald: <a href="https://www.heraldscotland.com/news/19054348.agenda-tackling-disadvantage-faced-young-people-locked-poverty/" class="uri">https://www.heraldscotland.com/news/19054348.agenda-tackling-disadvantage-faced-young-people-locked-poverty/</a></p>
+<p>31 January 2021 We published our second research brief “Socioeconomic disparities in school absenteeism after the first wave of Covid-19 school closures in Scotland: <a href="https://pure.strath.ac.uk/ws/portalfiles/portal/117483909/Sosu_Klein_2021_Socioeconomic_disparities_in_school_absenteeism_after.pdf" class="uri">https://pure.strath.ac.uk/ws/portalfiles/portal/117483909/Sosu_Klein_2021_Socioeconomic_disparities_in_school_absenteeism_after.pdf</a></p>
+<p>30 November 2020 Our project is discussed in the GTCS publication Teaching Scotland (Issue 86): <a href="https://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&amp;edid=217750e9-ff63-45d8-8f1a-8e4e3fd6a35f" class="uri">https://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&amp;edid=217750e9-ff63-45d8-8f1a-8e4e3fd6a35f</a></p>
+<p>11 November 2020 The media and communications team at Strathclyde published a press release on our paper published in Children and Youth Services Review: <a href="https://www.strath.ac.uk/whystrathclyde/news/broadermeasuresneededtoaddressinequalitiesinschoolabsenteeism/" class="uri">https://www.strath.ac.uk/whystrathclyde/news/broadermeasuresneededtoaddressinequalitiesinschoolabsenteeism/</a></p>
+<p>31 October 2020 We published a blog for the School of Education at the University of Strathclyde summarising our results so far: <a href="https://www.strath.ac.uk/humanities/schoolofeducation/blog/schoolattendanceandthepoverty-relatedattainmentgap/" class="uri">https://www.strath.ac.uk/humanities/schoolofeducation/blog/schoolattendanceandthepoverty-relatedattainmentgap/</a></p>
+<p>31 August 2020 We published our first research brief “Socioeconomic inequalities in school attendance in Scotland: Research brief”: <a href="https://pure.strath.ac.uk/ws/portalfiles/portal/107303630/Klein_etal_UoS_2020_Socioeconomic_Inequalities_in_School_Attendance_in_Scotland.pdf" class="uri">https://pure.strath.ac.uk/ws/portalfiles/portal/107303630/Klein_etal_UoS_2020_Socioeconomic_Inequalities_in_School_Attendance_in_Scotland.pdf</a></p>
+<p>28 August 2020 Our paper “Mapping inequalities in school attendance: the relationship between dimensions of socioeconomic status and forms of school absences” was accepted for publication in Children and Youth Services Review.</p>
+<p>25 September 2019 We presented the paper “School absenteeism and educational attainment: Is missing out on school more detrimental to students from lower socioeconomic backgrounds? At the Society for Longitudinal and Lifecourse Studies (SLLS) Annual Conference 2019 in Potsdam, Germany.</p>
+<p>24 September 2019 Our research associate, Dr Shadrach Dare, attended a course on causal mediation analysis (Dr Michael Kühhirt) at GESIS in Mannheim, Germany.</p>
+<p>04 September 2019 We presented the paper “Who is missing out on school? Exploring socioeconomic inequalities in school absenteeism” at the European Conference on Educational Research (ECER) 2019 in Hamburg, Germany. For more information see here: <a href="https://eera-ecer.de/ecer-programmes/conference/24/contribution/47563/" class="uri">https://eera-ecer.de/ecer-programmes/conference/24/contribution/47563/</a></p>
+<p>30 April 2019 We presented first results from our project at the Engage Strathclyde event “Who is Missing Out on School? The Role of School Absenteeism in the Poverty-Related Attainment Gap”. For more information see here: <a href="https://www.engage.strath.ac.uk/event/604" class="uri">https://www.engage.strath.ac.uk/event/604</a></p>
+<p>11 October 2018 We had our first meeting with our non-academic partners Poverty Alliance and General Teaching Council of Scotland</p>
+<p>03 July 2018 Our project “Social Inequalities in Educational Attainment: An Investigation into the Mediating Role of School Absenteeism” has now been assessed by the SLS Research Board and our request has been approved. For more information on the Scottish Longitudinal Study and our project see here: <a href="https://sls.lscs.ac.uk/projects/view/2018_007/" class="uri">https://sls.lscs.ac.uk/projects/view/2018_007/</a></p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
