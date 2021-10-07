@@ -1,11 +1,11 @@
-name: "MyLabJournal"
+name: "ESRC"
 navbar:
-  title: "MyLabJournal"
+  title: "ESRC"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
-      href: Journal.html
-    - text: "Links"
-      href: Links.html
+    - text: "Project"
+      href: Project.htm
+    - text: "Publications"
+      href: Publications.html
 output_dir: "docs"

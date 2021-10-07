@@ -15,7 +15,7 @@ output: html_document
 </style>
 
 <div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
+<div class="col-sm-8">
 
 # **Family background and educational attainment: An investigation into the mediating role of school absenteeism**
 
@@ -39,7 +39,7 @@ Markus Klein (PI) and Edward Sosu (Co-I)\
 
 
 </div>
-<div class="col-sm-6">
+<div class="col-sm-4">
 
 <a href = "https://esrc.ukri.org/">
 ![](images/esrc.png)
