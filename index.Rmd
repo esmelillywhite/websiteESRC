@@ -54,7 +54,7 @@ Markus Klein (PI) and Edward Sosu (Co-I)\
 </a>
 
 <a href = "https://www.gtcs.org.uk/">
-![](images/gtcs.jpg)
+![](images/GTC.png)
 </a>
 
 
