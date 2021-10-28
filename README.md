@@ -1,8 +1,11 @@
 # LabJournalWebsite
-An R Markdown website template for a lab journal [https://crumplab.github.io/LabJournalWebsite/index.html](https://crumplab.github.io/LabJournalWebsite/index.html)
+Website: [https://esmelillywhite.github.io/websiteESRC/](https://esmelillywhite.github.io/websiteESRC/)
 
-Editted for use by Esme Lillywhite for ESRC project website with Markus Klein and Edward Sosu.
+Editted from lab journal template found here: [https://crumplab.github.io/LabJournalWebsite/index.html](https://crumplab.github.io/LabJournalWebsite/index.html)
 
+Editted for use by Esme Lillywhite for School Attendance project website with Markus Klein and Edward Sosu.
+
+# Instructions
 Open R project
 Open R markdown files of each page to edit
 Knit the indivdual page (gives you a preview)
