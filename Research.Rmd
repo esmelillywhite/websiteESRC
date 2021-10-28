@@ -1,5 +1,5 @@
 ---
-title: "Project"
+title: "Research"
 output: html_document
 ---
 \
@@ -7,7 +7,7 @@ output: html_document
 Significant social inequalities in educational attainment can be found in Scotland and elsewhere. In Scotland, closing the poverty-related attainment gap has been identified as a key policy priority in Scottish education. Research on the mechanisms underpinning socioeconomic differences in educational attainment has not yet considered the role of school absenteeism. Missing out frequently from school may hinder children's ability to develop to their full academic potential, life course outcomes, as well as a nation’s economic and social development. Investigating the prevalence, determinants, and consequences of school absenteeism is an essential requirement for evidence-based changes in policy and practice.
 This secondary data analysis project explores the mediating role of school absenteeism for social inequalities in educational attainment and post-school destinations among secondary pupils in Scotland.  
 
-We use the Scottish Longitudinal Study (SLS) linking Census data in 2001 and 2011 with administrative School Census and Scottish Qualifications Authority (SQA) data. The SLS is a large-scale, anonymised linkage study designed to capture 5.5% of the Scottish population-based on 20 semi-random birthdates. These large-scale administrative data are unique in providing detailed and accurate information on family background, school attendance, and school attainment among secondary pupils in Scotland. The use of administrative data on school attendance is advantageous as it provides more reliable data than survey information.  
+We use the [Scottish Longitudinal Study (SLS)](https://sls.lscs.ac.uk/) linking Census data in 2001 and 2011 with administrative School Census and Scottish Qualifications Authority (SQA) data. The SLS is a large-scale, anonymised linkage study designed to capture 5.5% of the Scottish population-based on 20 semi-random birthdates. These large-scale administrative data are unique in providing detailed and accurate information on family background, school attendance, and school attainment among secondary pupils in Scotland. The use of administrative data on school attendance is advantageous as it provides more reliable data than survey information.  
 
 Our project is divided in three parts:  
 
@@ -19,8 +19,12 @@ The main focus of phase 1 is to examine the nature of associations between diffe
 
 In phase 2, we are interested in examining associations between school absenteeism, educational attainment and post school destinations. We examine these associations taking into account the multidimensional nature of absenteeism. In other words, we are interested in answering questions such as whether all forms of school absenteeism are detrimental to these outcomes. Importantly, we want to know whether the association between school absenteeism, attainment and post-school destinations is similar for pupils from different socioeconomic backgrounds.  Socioeconomic status may moderate the association between school absenteeism and educational attainment and post-school destinations.  
 
-**Phase III SES, school absenteeism and outcomes**  
+**Phase III: SES, school absenteeism and outcomes**  
 
 Minimal research exists on the associations between socioeconomic status, school absenteeism and educational achievement in a single study. Only one study in the US context looked at the mediating role of school attendance in the relationship between family background and school performance. In Phase III, we will investigate to what extent various forms of school absenteeism explain socioeconomic inequalities in educational attainment and post-school destinations. 
+
+**Phase IV: Interventions to improve attendance**
+
+In phase 4, we are interested in interventions that lead to improved school attendance. By collecting and analysing evidence on the success of different interventions, we will learn more about what works best, for whom and why. 
 
 

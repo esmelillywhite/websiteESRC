@@ -24,7 +24,7 @@ output: html_document
 <div class="col-sm-3">
 
 
-<img src="https://pure.strath.ac.uk/ws/portalfiles/portal/83323609/153728129872941949.jpg" class="img-responsive" style="width:100%" alt="Image">
+![](images/mk.jpg)
 </div>
 
 <div class="col-sm-9"> 
@@ -39,7 +39,7 @@ Markus Klein is a Senior Lecturer in Human Development and Education Policy in t
 <div class="col-sm-3">
 
 
-<img src="https://www.strath.ac.uk/staff/sosuedwarddr/DrEdwardSosu.jpg" class="img-responsive" style="width:100%" alt="Image">
+![](images/es.jpg)
 </div>
 
 <div class="col-sm-9"> 
@@ -62,7 +62,7 @@ Edward’s research interest cuts across high-, middle- and low-income country c
 <div class="col-sm-9"> 
 <p>**Esme Lillywhite: **
 
-Esme Lillywhite is a current PhD candidate at the University of Strathclyde, working as part of the Institute for Inspiring Children’s Futures Doctoral Research Centre, in the School of Education.   </p>
+Esme Lillywhite is currently undertaking PhD research in the School of Education at the University of Strathclyde. Her work is focused on the intergenerational transmission of poverty and she is part of the Institute for Inspiring Children's Futures Doctoral Research Centre. She has a Masters in International Development from Sciences Po, Paris and an BA(Hons) in Politics from the University of Exeter. Her research interests include mixed methods, the impact of inequality and intergenerational cycles of disadvantage.</p>
 </div>
 </div><br>
 
@@ -70,12 +70,12 @@ Esme Lillywhite is a current PhD candidate at the University of Strathclyde, wor
 
 
 ### Previous Research Associates  
-Dr Shadrach Dare  
-Dr Claire Goodfellow   
+[Dr Shadrach Dare](https://discovery.dundee.ac.uk/en/persons/shadrach-dare)  
+[Dr Claire Goodfellow](https://www.researchgate.net/profile/Claire-Goodfellow)   
 
 ### Partners  
-General Teaching Council for Scotland  
-Poverty Alliance
+[General Teaching Council for Scotland](https://www.gtcs.org.uk/)  
+[Poverty Alliance](https://www.povertyalliance.org/)
 
 
 

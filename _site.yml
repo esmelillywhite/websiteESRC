@@ -1,17 +1,17 @@
-name: "ESRC"
+name: "School Attendance"
 navbar:
-  title: "ESRC"
+  title: "School Attendance"
   left:
     - text: "Home"
       href: index.html
-    - text: "Project"
-      href: Project.html
+    - text: "Research"
+      href: Research.html
     - text: "Team"
       href: Team.html
-    - text: "News"
-      href: News.html
     - text: "Publications"
       href: Publications.html
+    - text: "Public engagement"
+      href: PublicEngagement.html
     - text: "Links"
       href: Links.html
     - text: "Contact"
