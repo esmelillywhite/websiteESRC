@@ -3,6 +3,8 @@ Website: [https://esmelillywhite.github.io/websiteESRC/](https://esmelillywhite.
 
 Editted from lab journal template found here: [https://crumplab.github.io/LabJournalWebsite/index.html](https://crumplab.github.io/LabJournalWebsite/index.html)
 
+Youtube tutorial: [https://www.youtube.com/watch?v=nc7XhQrasCM&t=1250s&ab_channel=ProgrammingForPsychologists](https://www.youtube.com/watch?v=nc7XhQrasCM&t=1250s&ab_channel=ProgrammingForPsychologists)
+
 Editted for use by Esme Lillywhite for School Attendance project website with Markus Klein and Edward Sosu.
 
 # Instructions
