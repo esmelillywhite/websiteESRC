@@ -62,7 +62,17 @@ And then type what you want to appear on your home page.
 
 # Editting this website
 
-
+* Always fetch origin on GitHub desktop to make sure you have the most uptodate version
+* Let others know you're working on changes, so that no ones changes get overridden.
+* Directly edit the website pages on RStudio, in the top left hand box.
+* Once you've made your changes, knit the file.
+* If you're happy with the preview, click on build website in the build tap on the top right hand box.
+* Once this is done, close RStudio, and go to GitHub Desktop.
+* On the left hand column, the changes made should automatically be detected.
+* Add a short simple summary of changes, and then press commit to origin.
+* The option will appear to push origin. Press this. Your changes have now been pushed to the remote repository, and others should be able to see it now.
+* Double check it has been successful by going to [https://github.com/esmelillywhite/websiteESRC/](https://github.com/esmelillywhite/websiteESRC/) and checking the changes have appeared. This may take a few minutes.
+* After a few minutes, you can also check that the changes went through to the website by clicking the link at the top of this readme file.
 
 # Useful Links
 
