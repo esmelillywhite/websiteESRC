@@ -2,6 +2,7 @@
 title: "Public Engagement"
 output: html_document
 ---
+<br>
 
 # Research briefs
 
@@ -15,7 +16,7 @@ output: html_document
 - Pupils from socially rented households, and households with no qualifications are the most likely to be absent from school, and these factors are consistently associated with all forms of absenteeism (overall, sickness based, truancy, temporary exclusion) except family holidays. 
 - The association between socioeconomic background and absenteeism did not vary across gender or place of residence (urban vs rural). 
 - It is likely that COVID-19 related school closures will exacerbate socioeconomic inequalities in school attendance. 
-- There is an urgent need to address socioeconomic inequalities in school absenteeism
+- There is an urgent need to address socioeconomic inequalities in school absenteeism <br> <br>
 
 
 [Sosu, E., & Klein, M. (2021). Socioeconomic disparities in school absenteeism after the first wave of COVID-19 school closures in Scotland. Research Brief. University of Strathclyde](https://www.researchgate.net/publication/348478558_Socioeconomic_disparities_in_school_absenteeism_after_the_first_wave_of_COVID-19_school_closures_in_Scotland)
@@ -32,7 +33,7 @@ output: html_document
 - We need greater monitoring and evaluation of:
   - inequalities in home learning during the second round of school    closures 
   - inequalities in academic achievement after school reopening 
-  - policy interventions designed to mitigate the consequences of Covid-19 on achievement gaps.
+  - policy interventions designed to mitigate the consequences of Covid-19 on achievement gaps. <br> <br>
   
 # Conference presentations
 
@@ -52,7 +53,7 @@ output: html_document
 
 “School absenteeism and educational attainment: Is missing out on school more detrimental to students from lower socioeconomic backgrounds? was presented at the Society for Longitudinal and Lifecourse Studies (SLLS) Annual Conference 2019 in Potsdam, Germany.
 
-“Who is missing out on school? Exploring socioeconomic inequalities in school absenteeism” was presented at the European Conference on Educational Research (ECER) 2019 in Hamburg, Germany. For more information see here: https://eera-ecer.de/ecer-programmes/conference/24/contribution/47563/
+“Who is missing out on school? Exploring socioeconomic inequalities in school absenteeism” was presented at the European Conference on Educational Research (ECER) 2019 in Hamburg, Germany. For more information see here: https://eera-ecer.de/ecer-programmes/conference/24/contribution/47563/ <br> <br>
 
 # Knowledge Exchange Events
 
@@ -62,7 +63,7 @@ Together with Dr Markus Gehrsitz (University of Strathclyde), we organised the S
 
 ***2019***
 
-We presented first results from our project at the Engage Strathclyde event “Who is Missing Out on School? The Role of School Absenteeism in the Poverty-Related Attainment Gap”. For more information see here: https://www.engage.strath.ac.uk/event/604
+We presented first results from our project at the Engage Strathclyde event “Who is Missing Out on School? The Role of School Absenteeism in the Poverty-Related Attainment Gap”. For more information see here: https://www.engage.strath.ac.uk/event/604 <br> <br>
 
 # Media, blogs & podcasts
 
@@ -84,7 +85,7 @@ Our project is discussed in the GTCS publication Teaching Scotland (Issue 86): h
 
 The media and communications team at Strathclyde published a press release on our paper published in Children and Youth Services Review: https://www.strath.ac.uk/whystrathclyde/news/broadermeasuresneededtoaddressinequalitiesinschoolabsenteeism/
 
-We published a blog for the School of Education at the University of Strathclyde summarising our results so far: https://www.strath.ac.uk/humanities/schoolofeducation/blog/schoolattendanceandthepoverty-relatedattainmentgap/
+We published a blog for the School of Education at the University of Strathclyde summarising our results so far: https://www.strath.ac.uk/humanities/schoolofeducation/blog/schoolattendanceandthepoverty-relatedattainmentgap/ <br> <br>
 
 # Invited Talks
 
