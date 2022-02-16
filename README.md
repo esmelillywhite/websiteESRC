@@ -62,10 +62,10 @@ And then type what you want to appear on your home page.
 
 # Editting this website
 
-* Always fetch origin on GitHub desktop to make sure you have the most uptodate version
+* Always fetch origin on GitHub desktop to make sure you have the most uptodate version- pull changes.
 * Let others know you're working on changes, so that no ones changes get overridden.
-* Directly edit the website pages on RStudio, in the top left hand box.
-* Once you've made your changes, knit the file.
+* Open LabJournalWebsite (the RStudio file) to make the changes directly to the web pages.
+* Once you've made your changes to the web pages in RStudio, knit the file.
 * If you're happy with the preview, click on build website in the build tap on the top right hand box.
 * Once this is done, close RStudio, and go to GitHub Desktop.
 * On the left hand column, the changes made should automatically be detected.
@@ -73,6 +73,12 @@ And then type what you want to appear on your home page.
 * The option will appear to push origin. Press this. Your changes have now been pushed to the remote repository, and others should be able to see it now.
 * Double check it has been successful by going to [https://github.com/esmelillywhite/websiteESRC/](https://github.com/esmelillywhite/websiteESRC/) and checking the changes have appeared. This may take a few minutes.
 * After a few minutes, you can also check that the changes went through to the website by clicking the link at the top of this readme file.
+
+Note: Sometimes the update is deleting the CNAME file, and I'm not sure why. If this happens, it can easily be fixed by:
+* Go to the settings on the github page for the repo
+* Go to pages tab in settings
+* Re-add the domain name 'schoolattendance.org'
+* This will add the CNAME file. Wait a few minutes and check it's working. 
 
 # Useful Links
 
