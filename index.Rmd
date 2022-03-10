@@ -20,7 +20,7 @@ output: html_document
 # **Family background and educational attainment: An investigation into the mediating role of school absenteeism ** 
 
 <br> <br>
-**Duration:** 1 September 2018 – 31 March 2022  
+**Duration:** 1 September 2018 – 31 March 2023  
 **Funding:** Economic and Social Research Council (ESRC)  
 \
 This project has received funding from the Economic and Social Research Council (ESRC) under the Secondary Data Analysis Initiative (SDAI), grant reference ES/R004943/1\
