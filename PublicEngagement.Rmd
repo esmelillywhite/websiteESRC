@@ -6,18 +6,17 @@ output: html_document
 
 # Research briefs
 
+[Klein, M., Sosu, E., & Lillywhite, E. (2022) School Absenteeism and Educational Attainment - Evidence from the Scottish Longitudinal Study. Research Brief. University of Strathclyde](https://strathprints.strath.ac.uk/80713/)
 
-[Klein, M., Goodfellow, C., Dare, S., & Sosu, E. (2020). Socioeconomic Inequalities in School Attendance in Scotland: Research Brief. University of Strathclyde.](https://www.researchgate.net/publication/343737573_Socioeconomic_Inequalities_in_School_Attendance_in_Scotland_-_Research_Brief)
+**Key Points:**
 
-**Key points:**
+- School absences are detrimental to educational attainment in national exams at the end of compulsory (S4) and post-compulsory schooling (S5/S6) in Scotland.
+- Truancy, sickness-related absences, and absences due to exceptional domestic circumstances each have a unique negative impact on educational attainment at both stages.
+- Our findings suggest three additional pathways through which absence may affect academic achievement: a behavioural pathway, a health pathway, and a psychosocial pathway.
+- Our research challenges previous assumptions that unexcused absences are more harmful than excused absences and calls for equal emphasis on tackling all forms of school absence.
+- Research and interventions need to focus on mitigating the harmful consequences of school absenteeism, considering the reason for absence.
 
-- Absenteeism from school is socially stratified and being absent from school is likely an important contributor to the attainment gap in Scotland. 
-- All dimensions of socioeconomic background increased the risk of overall absenteeism from school. 
-- Pupils from socially rented households, and households with no qualifications are the most likely to be absent from school, and these factors are consistently associated with all forms of absenteeism (overall, sickness based, truancy, temporary exclusion) except family holidays. 
-- The association between socioeconomic background and absenteeism did not vary across gender or place of residence (urban vs rural). 
-- It is likely that COVID-19 related school closures will exacerbate socioeconomic inequalities in school attendance. 
-- There is an urgent need to address socioeconomic inequalities in school absenteeism <br> <br>
-
+  <br> <br>
 
 [Sosu, E., & Klein, M. (2021). Socioeconomic disparities in school absenteeism after the first wave of COVID-19 school closures in Scotland. Research Brief. University of Strathclyde](https://www.researchgate.net/publication/348478558_Socioeconomic_disparities_in_school_absenteeism_after_the_first_wave_of_COVID-19_school_closures_in_Scotland)
 
@@ -34,6 +33,20 @@ output: html_document
   - inequalities in home learning during the second round of school    closures 
   - inequalities in academic achievement after school reopening 
   - policy interventions designed to mitigate the consequences of Covid-19 on achievement gaps. <br> <br>
+
+
+[Klein, M., Goodfellow, C., Dare, S., & Sosu, E. (2020). Socioeconomic Inequalities in School Attendance in Scotland: Research Brief. University of Strathclyde.](https://www.researchgate.net/publication/343737573_Socioeconomic_Inequalities_in_School_Attendance_in_Scotland_-_Research_Brief)
+
+**Key points:**
+
+- Absenteeism from school is socially stratified and being absent from school is likely an important contributor to the attainment gap in Scotland.
+- All dimensions of socioeconomic background increased the risk of overall absenteeism from school. 
+- Pupils from socially rented households, and households with no qualifications are the most likely to be absent from school, and these factors are consistently associated with all forms of absenteeism (overall, sickness based, truancy, temporary exclusion) except family holidays. 
+- The association between socioeconomic background and absenteeism did not vary across gender or place of residence (urban vs rural). 
+- It is likely that COVID-19 related school closures will exacerbate socioeconomic inequalities in school attendance. 
+- There is an urgent need to address socioeconomic inequalities in school absenteeism <br> <br>
+
+
   
 # Conference presentations
 
