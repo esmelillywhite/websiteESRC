@@ -70,6 +70,10 @@ output: html_document
 
 # Knowledge Exchange Events
 
+***2022***
+
+Moderated by Donald Christie, this webinar presents research findings on the role of school absences in the poverty related attainment gap in Scotland, and the implications for policy and practice. https://www.youtube.com/watch?v=JNORvpbQERw&t=10s&ab_channel=StrathHASS 
+
 ***2021***
 
 Together with Dr Markus Gehrsitz (University of Strathclyde), we organised the Strathclyde Engage Event “Data Can Tell Us ‘What Works’ in Education: Insights from Quantitative Education Research”. https://www.engage.strath.ac.uk/event/804
