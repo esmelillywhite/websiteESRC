@@ -16,7 +16,7 @@ output: html_document
 - Our research challenges previous assumptions that unexcused absences are more harmful than excused absences and calls for equal emphasis on tackling all forms of school absence.
 - Research and interventions need to focus on mitigating the harmful consequences of school absenteeism, considering the reason for absence.
 
-  <br> <br>
+<br>
 
 [Sosu, E., & Klein, M. (2021). Socioeconomic disparities in school absenteeism after the first wave of COVID-19 school closures in Scotland. Research Brief. University of Strathclyde](https://www.researchgate.net/publication/348478558_Socioeconomic_disparities_in_school_absenteeism_after_the_first_wave_of_COVID-19_school_closures_in_Scotland)
 
@@ -32,8 +32,9 @@ output: html_document
 - We need greater monitoring and evaluation of:
   - inequalities in home learning during the second round of school    closures 
   - inequalities in academic achievement after school reopening 
-  - policy interventions designed to mitigate the consequences of Covid-19 on achievement gaps. <br> <br>
-
+  - policy interventions designed to mitigate the consequences of Covid-19 on achievement gaps.
+  
+<br>
 
 [Klein, M., Goodfellow, C., Dare, S., & Sosu, E. (2020). Socioeconomic Inequalities in School Attendance in Scotland: Research Brief. University of Strathclyde.](https://www.researchgate.net/publication/343737573_Socioeconomic_Inequalities_in_School_Attendance_in_Scotland_-_Research_Brief)
 
@@ -44,10 +45,11 @@ output: html_document
 - Pupils from socially rented households, and households with no qualifications are the most likely to be absent from school, and these factors are consistently associated with all forms of absenteeism (overall, sickness based, truancy, temporary exclusion) except family holidays. 
 - The association between socioeconomic background and absenteeism did not vary across gender or place of residence (urban vs rural). 
 - It is likely that COVID-19 related school closures will exacerbate socioeconomic inequalities in school attendance. 
-- There is an urgent need to address socioeconomic inequalities in school absenteeism <br> <br>
+- There is an urgent need to address socioeconomic inequalities in school absenteeism.
+
+<br>
 
 
-  
 # Conference presentations
 
 ***2021***
@@ -66,13 +68,11 @@ output: html_document
 
 “School absenteeism and educational attainment: Is missing out on school more detrimental to students from lower socioeconomic backgrounds? was presented at the Society for Longitudinal and Lifecourse Studies (SLLS) Annual Conference 2019 in Potsdam, Germany.
 
-“Who is missing out on school? Exploring socioeconomic inequalities in school absenteeism” was presented at the European Conference on Educational Research (ECER) 2019 in Hamburg, Germany. For more information see here: https://eera-ecer.de/ecer-programmes/conference/24/contribution/47563/ <br> <br>
+“Who is missing out on school? Exploring socioeconomic inequalities in school absenteeism” was presented at the European Conference on Educational Research (ECER) 2019 in Hamburg, Germany. For more information see here: https://eera-ecer.de/ecer-programmes/conference/24/contribution/47563/
+
+<br>
 
 # Knowledge Exchange Events
-
-***2022***
-
-Moderated by Donald Christie, this webinar presents research findings on the role of school absences in the poverty related attainment gap in Scotland, and the implications for policy and practice. https://www.youtube.com/watch?v=JNORvpbQERw&t=10s&ab_channel=StrathHASS 
 
 ***2021***
 
@@ -80,19 +80,35 @@ Together with Dr Markus Gehrsitz (University of Strathclyde), we organised the S
 
 ***2019***
 
-We presented first results from our project at the Engage Strathclyde event “Who is Missing Out on School? The Role of School Absenteeism in the Poverty-Related Attainment Gap”. For more information see here: https://www.engage.strath.ac.uk/event/604 <br> <br>
+We presented first results from our project at the Engage Strathclyde event “Who is Missing Out on School? The Role of School Absenteeism in the Poverty-Related Attainment Gap”. For more information see here: https://www.engage.strath.ac.uk/event/604 
 
-# Media, blogs & podcasts
+<br>
+
+# Videos & podcasts
+
+***2022***
+
+Moderated by Donald Christie, this webinar presents research findings on the role of school absences in the poverty related attainment gap in Scotland, and the implications for policy and practice.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNORvpbQERw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+***2021***
+
+Dr Claire Cassidy (University of Strathclyde) interviewed us for the School of Education’s podcast series “Meet an academic”: https://anchor.fm/strathclyde-education/episodes/Podcast-21-Meet-an-academic-Dr--Edward-Sosu-and-Dr--Markus-Klein-e11an8n
+
+We published a podcast summarising our first and second research brief as part of Education Scotland’s Signposting Equity Issue 12: https://sway.office.com/x5EJ7G2hrOjsTgnG?ref=Link 
+
+<br>
+
+# Media & blogs
 
 ***2022***
 
 Our paper published in AERA Open was discussed in TES (https://www.tes.com/magazine/news/general/authorised-school-absence-equally-detrimental-pupils) and The Courier (https://www.thecourier.co.uk/news/scotland/3307955/more-focus-needed-on-reasons-for-school-absence-study-finds/)
 
 ***2021***
-
-Dr Claire Cassidy (University of Strathclyde) interviewed us for the School of Education’s podcast series “Meet an academic”: https://anchor.fm/strathclyde-education/episodes/Podcast-21-Meet-an-academic-Dr--Edward-Sosu-and-Dr--Markus-Klein-e11an8n
-
-We published a podcast summarising our first and second research brief as part of Education Scotland’s Signposting Equity Issue 12: https://sway.office.com/x5EJ7G2hrOjsTgnG?ref=Link
 
 The media and communications team at Strathclyde published a press release on our second research brief: https://www.strath.ac.uk/whystrathclyde/news/schoolabsenteeismroseamidpandemic-predominantlyinmoredeprivedareas/
 
@@ -106,7 +122,9 @@ Our project is discussed in the GTCS publication Teaching Scotland (Issue 86): h
 
 The media and communications team at Strathclyde published a press release on our paper published in Children and Youth Services Review: https://www.strath.ac.uk/whystrathclyde/news/broadermeasuresneededtoaddressinequalitiesinschoolabsenteeism/
 
-We published a blog for the School of Education at the University of Strathclyde summarising our results so far: https://www.strath.ac.uk/humanities/schoolofeducation/blog/schoolattendanceandthepoverty-relatedattainmentgap/ <br> <br>
+We published a blog for the School of Education at the University of Strathclyde summarising our results so far: https://www.strath.ac.uk/humanities/schoolofeducation/blog/schoolattendanceandthepoverty-relatedattainmentgap/ 
+
+<br>
 
 # Invited Talks
 

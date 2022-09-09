@@ -17,17 +17,10 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-8">
 
-# **Family background and educational attainment: An investigation into the mediating role of school absenteeism ** 
+# **School Attendance ** 
 
 <br> <br>
-**Duration:** 1 September 2018 – 31 March 2023  
-**Funding:** Economic and Social Research Council (ESRC)  
-\
-This project has received funding from the Economic and Social Research Council (ESRC) under the Secondary Data Analysis Initiative (SDAI), grant reference ES/R004943/1\
-\
-Our ESRC-funded project aims to investigate the extent to which differences in school attendance accounts for socioeconomic inequalities in educational attainment and post-school destinations among pupils in Scotland.\
-
-We invite you to browse and explore our website to learn more about the project and hope that you may revisit to check for any updates or new publications that we disseminate through this website in the future.\
+Welcome to our website, where we invite you to browse and explore to learn more about our projects and hope that you may revisit to check for any updates or new publications that we disseminate through this website in the future.\
 
 Thank you for your interest in our work!\
 
@@ -42,21 +35,15 @@ Markus Klein (PI) and Edward Sosu (Co-I)\
 </div>
 <div class="col-sm-4">
 
-<a href = "https://esrc.ukri.org/">
-![](images/esrc.png)
-</a>
+
 
 <a href = "https://www.strath.ac.uk/">
 ![](images/strath.png)
 </a>
 
-<a href = "https://www.povertyalliance.org/">
-![](images/povertyalliance.png)
-</a>
 
-<a href = "https://www.gtcs.org.uk/">
-![](images/GTC.png)
-</a>
+
+
 
 
 </div>

@@ -4,7 +4,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research"
+    - text: "Nuffield Foundation Project"
+      href: Nuffield.html
+    - text: "ESRC Project"
       href: Research.html
     - text: "Team"
       href: Team.html
