@@ -52,6 +52,16 @@ output: html_document
 
 # Conference presentations
 
+***2022***
+
+“School absenteeism and academic achievement – Heterogeneity across type of absence and family socioeconomic status” was presented at the Scottish Educational Research Association (SERA) Conference in Ayr, Scotland (November 2022).
+
+“Family socioeconomic status and academic achievement: the mediating role of school absenteeism” was presented at the International Network for School Attendance (INSA) Conference in Egmont aan Zee, Netherlands (October 2022).
+
+“School absences in secondary schooling and adolescents’ post-school destinations – Evidence from the Scottish Longitudinal Study” was presented at the Transitions in Youth (TIY) Conference in Naples, Italy (September 2022).
+
+“School absences in secondary schooling and adolescents’ post-school destinations – Evidence from the Scottish Longitudinal Study” was presented at the European Association for Research on Adolescence (EARA) Conference in Dublin, Ireland (August 2022).
+
 ***2021***
 
 “Family background and academic achievement: An investigation into the mediating role of school absenteeism” was presented at the European Consortium for Sociological Research (ECSR) Annual Conference 2021.
@@ -73,6 +83,10 @@ output: html_document
 <br>
 
 # Knowledge Exchange Events
+
+***2022***
+
+Together with Poverty Alliance and General Teaching Council for Scotland (GTCS), we organised the webinar “School absences and the poverty-related attainment gap” (March 2022). https://www.strath.ac.uk/humanities/events/schoolabsencesandthepovertyrelatedattainmentgap/ 
 
 ***2021***
 
@@ -106,7 +120,11 @@ We published a podcast summarising our first and second research brief as part o
 
 ***2022***
 
-Our paper published in AERA Open was discussed in TES (https://www.tes.com/magazine/news/general/authorised-school-absence-equally-detrimental-pupils) and The Courier (https://www.thecourier.co.uk/news/scotland/3307955/more-focus-needed-on-reasons-for-school-absence-study-finds/)
+Our paper published in Review of Education was discussed in the Newsbreak (Philippines) article “More than 40% of Peoria Public School students were chronically absent in 2021”. https://www.newsbreak.com/news/2727934122886/more-than-40-of-peoria-public-school-students-were-chronically-absent-in-2021
+
+Our paper published in Children and Youth Services Review was cited in the blog post “School attendance problems are complex, and our solutions need to be as well”. https://theconversation.com/school-attendance-problems-are-complex-and-our-solutions-need-to-be-as-well-189849
+
+Our paper published in AERA Open was discussed in TES (https://www.tes.com/magazine/news/general/authorised-school-absence-equally-detrimental-pupils) and The Courier
 
 ***2021***
 

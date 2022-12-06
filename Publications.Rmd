@@ -23,11 +23,13 @@ output: html_document
 # Work in progress
 
 
-Markus Klein, Edward Sosu and Shadrach Dare. The intersection of socioeconomic status and pupil absenteeism in academic achievement: Is there a cumulative risk? *Under review.*
+Markus Klein, Edward Sosu and Shadrach Dare. The intersection of socioeconomic status and pupil absenteeism in academic achievement: Is there a cumulative risk? *Revise & Resubmit*
 
 Markus Klein and Edward Sosu. Is school absenteeism associated with students' post-school destinations? Evidence from the Scottish Longitudinal Study. *In preparation for submission.*
 
 Markus Klein, Edward Sosu and Esme Lillywhite. Systematic review of the effect of interventions on school absences. *Research underway.*
+
+Markus Klein, Edward Sosu and Jascha Dräger. The long-term consequences of school absences for educational and labour market outcomes. *Research underway.*
 
 
 
