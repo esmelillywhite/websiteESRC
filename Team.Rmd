@@ -30,7 +30,7 @@ output: html_document
 <div class="col-sm-9"> 
 <p>**Markus Klein (PI): ** 
 
-Markus Klein is a Senior Lecturer in Human Development and Education Policy in the School of Education at the University of Strathclyde, a Fellow of the Higher Education Academy, and a Life Course Research Affiliate at the ARC Centre of Excellence for Children and Families over the Life Course at the University of Queensland. Previously he was a postdoctoral research fellow in the ‘Social Stratification and Education’ strand of the ESRC-funded research centre AQMeN (Applied Quantitative Methods Network). Markus studies how and why family socioeconomic status shapes individuals’ development and outcomes at various stages of the life course. His research appears in <i>Sociological Science</i>, <i>Child Development</i>, <i>Sociology</i>, <i>British Journal of Sociology</i>, <i>European Sociological Review</i> or <i>Social Science Research.</i>  </p>
+Dr Markus Klein is a Reader in Human Development and Education Policy in the School of Education at the University of Strathclyde, a Fellow of the Higher Education Academy, and a Life Course Research Affiliate at the ARC Centre of Excellence for Children and Families over the Life Course at the University of Queensland. Previously he was a postdoctoral research fellow in the ‘Social Stratification and Education’ strand of the ESRC-funded research centre AQMeN (Applied Quantitative Methods Network). Markus studies how and why family socioeconomic status shapes individuals’ development and outcomes at various stages of the life course. His research appears in <i>Sociological Science</i>, <i>Child Development</i>, <i>Sociology</i>, <i>British Journal of Sociology</i>, <i>European Sociological Review</i> or <i>Social Science Research.</i>  </p>
 </div>
 </div><br>
 
@@ -45,7 +45,7 @@ Markus Klein is a Senior Lecturer in Human Development and Education Policy in t
 <div class="col-sm-9"> 
 <p>**Edward Sosu (Co-I):**
 
-Edward Sosu is a Reader, and currently Research Director in the School of Education. He has a strong interest in quantitative methods and in addressing educational issues from a psychological perspective. His current research is predominantly focused on understanding how socioeconomic disadvantage influences educational and psychological trajectories from early childhood.  
+Dr Edward Sosu is a Reader, and currently Research Director in the School of Education. He has a strong interest in quantitative methods and in addressing educational issues from a psychological perspective. His current research is predominantly focused on understanding how socioeconomic disadvantage influences educational and psychological trajectories from early childhood.  
 Edward’s research interest cuts across high-, middle- and low-income country contexts. He was the lead author of the influential Joseph Rowntree Foundation report on [Closing the Attainment Gap In Scottish Education](http://www.jrf.org.uk/sites/files/jrf/education-attainment-scotland-full.pdf). He has extensive experience of policy engagement and is keen to find ways that to enable research outcomes to make a difference to the lives of the most vulnerable in society. </p>
 </div>
 </div><br>
@@ -62,7 +62,7 @@ Edward’s research interest cuts across high-, middle- and low-income country c
 <div class="col-sm-9"> 
 <p>**Jascha Drager: **
 
-Jascha Drager is research associate in the School of Education at the University of Strathclyde. He has a BA in Sociology from the University of Kassel and a MA in Sociology from the University of Mannheim. Previously he has worked as research assistant in the projects <i>“The Effect of Parental Wealth on Education Decisions”</i> at GESIS – Leibniz Institute for the Social Sciences and <i>“The Development of Inequalites in Child Educational Achievement: A Six Country Study Project”</i> at Leipzig University. His main research interests are social stratification in education and quantitative analysis methods. His recent research has been published in <i>Advances in Life Course Research, European Sociological Review, and Research in Social Stratification and Mobility.</i> </p>
+Dr Jascha Drager is a Research Associate in the School of Education at the University of Strathclyde. He has a BA in Sociology from the University of Kassel and a PhD and MA in Sociology from the University of Mannheim. Previously he has worked as research assistant in the projects <i>“The Effect of Parental Wealth on Education Decisions”</i> at GESIS – Leibniz Institute for the Social Sciences and <i>“The Development of Inequalites in Child Educational Achievement: A Six Country Study Project”</i> at Leipzig University. His main research interests are social stratification in education and quantitative analysis methods. His recent research has been published in <i>Advances in Life Course Research, European Sociological Review, and Research in Social Stratification and Mobility.</i> </p>
 </div>
 </div><br>
 
