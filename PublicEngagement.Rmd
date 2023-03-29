@@ -84,6 +84,11 @@ output: html_document
 
 # Knowledge Exchange Events
 
+***2023***
+
+We provided the Keynote "Determinants and Consequences of School Absenteeism" at the Attendance Symposium, a professional learning event for educators, aimed at addressing school attendance problems to improve life outcomes for children and young people in Scotland (27 March). The event was organised by the Forth Valley and West Lothian Regional Improvement Collaborative: https://blogs.glowscotland.org.uk/glowblogs/public/fvwlric/uploads/sites/7616/2023/02/03100640/Attendance-Symposium-Brochure.pdf
+
+
 ***2022***
 
 Together with Poverty Alliance and General Teaching Council for Scotland (GTCS), we organised the webinar “School absences and the poverty-related attainment gap” (March 2022). https://www.strath.ac.uk/humanities/events/schoolabsencesandthepovertyrelatedattainmentgap/ 
@@ -102,7 +107,7 @@ We presented first results from our project at the Engage Strathclyde event “W
 
 ***2022***
 
-Moderated by Donald Christie, this webinar presents research findings on the role of school absences in the poverty related attainment gap in Scotland, and the implications for policy and practice.
+Moderated by Prof Donald Christie, this webinar presents research findings on the role of school absences in the poverty related attainment gap in Scotland, and the implications for policy and practice.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JNORvpbQERw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -116,7 +121,23 @@ We published a podcast summarising our first and second research brief as part o
 
 <br>
 
+
+# Parliamentary evidence
+
+***2023***
+
+We submitted written evidence to the UK Parliament Education Committee on persistent absence and support for disadvantaged pupils:
+https://committees.parliament.uk/writtenevidence/117933/pdf/
+
+
+<br>
+
 # Media & blogs
+
+***2023***
+
+We have written a blog post highlighting the increase of absence rates during the pandemic and summarising our research on the determinatns and consequences of school absenteeism: https://theconversation.com/persistent-absence-from-school-is-a-growing-threat-to-childrens-education-201501
+
 
 ***2022***
 
