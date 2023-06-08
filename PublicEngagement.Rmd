@@ -52,6 +52,12 @@ output: html_document
 
 # Conference presentations
 
+***2023***
+
+“School absenteeism trajectories and their consequences for achievement" was presented at Children of the noughties: a conference to celebrate 21 years of the Millennium Cohort Study (June 2023)
+
+
+
 ***2022***
 
 “School absenteeism and academic achievement – Heterogeneity across type of absence and family socioeconomic status” was presented at the Scottish Educational Research Association (SERA) Conference in Ayr, Scotland (November 2022).
@@ -86,12 +92,16 @@ output: html_document
 
 ***2023***
 
+We organised the event "Absenteeism and exclusion research - What next?" for policymakers and practitioners together with Prof Gillean McCluskey and Dr Annie Taylor (University of Edinburgh) from the Excluded Lives project (06 June).
+
+
 We provided the Keynote "Determinants and Consequences of School Absenteeism" at the Attendance Symposium, a professional learning event for educators, aimed at addressing school attendance problems to improve life outcomes for children and young people in Scotland (27 March). The event was organised by the Forth Valley and West Lothian Regional Improvement Collaborative: https://blogs.glowscotland.org.uk/glowblogs/public/fvwlric/uploads/sites/7616/2023/02/03100640/Attendance-Symposium-Brochure.pdf
 
 
 ***2022***
 
-Together with Poverty Alliance and General Teaching Council for Scotland (GTCS), we organised the webinar “School absences and the poverty-related attainment gap” (March 2022). https://www.strath.ac.uk/humanities/events/schoolabsencesandthepovertyrelatedattainmentgap/ 
+Together with Poverty Alliance and General Teaching Council for Scotland (GTCS), we organised the Webinar “School absences and the poverty-related attainment gap” (March 2022). https://www.strath.ac.uk/humanities/events/schoolabsencesandthepovertyrelatedattainmentgap/ 
+
 
 ***2021***
 
