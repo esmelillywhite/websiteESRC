@@ -30,7 +30,7 @@ output: html_document
 <div class="col-sm-9"> 
 <p>**Markus Klein (PI): ** 
 
-Dr Markus Klein is a Reader in Human Development and Education Policy in the School of Education at the University of Strathclyde, a Fellow of the Higher Education Academy, and a Life Course Research Affiliate at the ARC Centre of Excellence for Children and Families over the Life Course at the University of Queensland. Previously he was a postdoctoral research fellow in the ‘Social Stratification and Education’ strand of the ESRC-funded research centre AQMeN (Applied Quantitative Methods Network). Markus studies how and why family socioeconomic status shapes individuals’ development and outcomes at various stages of the life course. His research appears in <i>Sociological Science</i>, <i>Child Development</i>, <i>Sociology</i>, <i>British Journal of Sociology</i>, <i>European Sociological Review</i> or <i>Social Science Research.</i>  </p>
+Dr Markus Klein is a Reader in Human Development and Education Policy and currently Director of Research in the School of Education at the University of Strathclyde, a Fellow of the Higher Education Academy, and a Life Course Research Affiliate at the ARC Centre of Excellence for Children and Families over the Life Course at the University of Queensland. Previously he was a postdoctoral research fellow in the ‘Social Stratification and Education’ strand of the ESRC-funded research centre AQMeN (Applied Quantitative Methods Network). Markus studies how and why family socioeconomic status shapes individuals’ development and outcomes at various stages of the life course. His research appears in <i>Sociological Science</i>, <i>Child Development</i>, <i>Sociology</i>, <i>British Journal of Sociology</i>, <i>European Sociological Review</i> or <i>Social Science Research.</i>  </p>
 </div>
 </div><br>
 
@@ -45,7 +45,7 @@ Dr Markus Klein is a Reader in Human Development and Education Policy in the Sch
 <div class="col-sm-9"> 
 <p>**Edward Sosu (Co-I):**
 
-Dr Edward Sosu is a Reader, and currently Research Director in the School of Education. He has a strong interest in quantitative methods and in addressing educational issues from a psychological perspective. His current research is predominantly focused on understanding how socioeconomic disadvantage influences educational and psychological trajectories from early childhood.  
+Dr Edward Sosu is a Reader and currently Deputy Head of School for Research in the School of Education. He has a strong interest in quantitative methods and in addressing educational issues from a psychological perspective. His current research is predominantly focused on understanding how socioeconomic disadvantage influences educational and psychological trajectories from early childhood.  
 Edward’s research interest cuts across high-, middle- and low-income country contexts. He was the lead author of the influential Joseph Rowntree Foundation report on [Closing the Attainment Gap In Scottish Education](http://www.jrf.org.uk/sites/files/jrf/education-attainment-scotland-full.pdf). He has extensive experience of policy engagement and is keen to find ways that to enable research outcomes to make a difference to the lives of the most vulnerable in society. </p>
 </div>
 </div><br>
@@ -97,8 +97,26 @@ Kenvil Souza is a PhD student in psychology at the University of Strathclyde. He
 </div><br>
 
 
+<div class="row">
+<div class="col-sm-3">
+
+
+![](images/sm.JPG)
+
+</div>
+
+<div class="col-sm-9"> 
+<p>**Samara Marta: **
+
+Samara Marta is an ESRC 1+3 PhD student at the University of Strathclyde. Her project examines the role of behavioural and psychosocial dispositions in the relationship between family socioeconomic status and school absenteeism. She is currently completing her MSc in Applied Educational and Social Research and previously completed her BSc in Psychology in Education at the University of York. Her research interests include school absenteeism, quantitative methods, and addressing inequalities.</p>
+</div>
+</div><br>
+
+
+
+
 ### Previous Research Associates  
-[Dr Shadrach Dare](https://discovery.dundee.ac.uk/en/persons/shadrach-dare)  
+[Dr Shadrach Dare](https://www.gcu.ac.uk/staff/shadrachdare)  
 [Dr Claire Goodfellow](https://www.researchgate.net/profile/Claire-Goodfellow)  <br>  <br>
 
 ### Partners  
