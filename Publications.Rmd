@@ -6,12 +6,12 @@ output: html_document
 
 # Peer-reviewed journal articles
 
-Klein, M., & Sosu, M. (in press). School attendance and academic achievement: Understanding variation across family socioeconomic status. Sociology of Education
+[Klein, M., & Sosu, M. (2023). School attendance and academic achievement: Understanding variation across family socioeconomic status. Sociology of Education, 00380407231191541](https://doi.org/10.1177/00380407231191541)
 
 **Abstract:** Studies consistently show detrimental effects of school absences on pupils’ achievement. However, due to an accumulation of multiple risks, school absenteeism may be more harmful to achievement among pupils from lower socioeconomic status (SES). Using a sample of upper secondary students from the Scottish Longitudinal Study (n = 3,135), we investigated whether the association between absences (overall, sickness, and truancy) and achievement in high-stakes exams varied by family SES dimensions (parental education, class, free school meal registration, and housing). When considering overall absences and truancy, results show no statistically significant differences across SES groups. However, sickness absences were more harmful to lower than higher SES students' achievement. Differences between the most and least disadvantaged groups were found on all SES dimensions except for parental education.<br> <br>
 
 
-[Klein, M., Sosu, E. M., & Dare, S. (2022). School Absenteeism and Academic Achievement: Does the Reason for Absence Matter? AERA Open. https://doi.org/10.1177/23328584211071115](https://journals.sagepub.com/doi/full/10.1177/23328584211071115)  
+[Klein, M., Sosu, E. M., & Dare, S. (2022). School Absenteeism and Academic Achievement: Does the Reason for Absence Matter? AERA Open, 8, 23328584211071115.](https://journals.sagepub.com/doi/full/10.1177/23328584211071115)  
 
 **Abstract:** Studies consistently show associations between school absences and academic achievement. However, questions remain about whether this link depends on the reason for children’s absence. Using a sample of the Scottish Longitudinal Study (n = 4,419), we investigated whether the association between school absenteeism and achievement in high-stakes exams at the end of compulsory and postcompulsory schooling varies with the reason for absence. In line with previous research, our findings show that overall absences are negatively associated with academic achievement at both school stages. Likewise, all forms of absences (truancy, sickness absence, exceptional domestic circumstances, and family holidays) are negatively associated with achievement at the end of compulsory and postcompulsory schooling. First difference regressions confirm these negative associations, except for family holidays. These findings suggest that, in addition to lost instruction, other mechanisms such as behavioral, health-related, and psychosocial pathways may account for the association between absenteeism and achievement. The findings have implications for designing tailored absenteeism interventions to improve pupils’ academic achievement.<br> <br>   
 
@@ -27,11 +27,11 @@ Klein, M., & Sosu, M. (in press). School attendance and academic achievement: Un
 
 # Work in progress
 
-Jascha Dräger, Markus Klein, Edward Sosu. The long-term consequences of school absences for educational and labour market outcomes. *Under review.* A preprint can be accessed [here](https://edarxiv.org/7z2bx/).
+Jascha Dräger, Markus Klein, Edward Sosu. The long-term consequences of school absences for educational and labour market outcomes. *Revise and Resubmit.* A preprint can be accessed [here](https://edarxiv.org/7z2bx/).
 
-Markus Klein and Edward Sosu. School absences, educational achievement, and adolescents’ post-school destinations – Evidence from Scotland. *Under review.*
+Markus Klein and Edward Sosu. School absences, educational achievement, and adolescents’ post-school destinations – Evidence from Scotland. *Revise and Resubmit.*
 
-Jascha Dräger, Markus Klein, Edward Sosu.School absences trajectories and their consequences for educational achievement. *In preparation for submission.* A preprint can be accessed [here](https://edarxiv.org/ch4jq/).
+Jascha Dräger, Markus Klein, Edward Sosu.School absences trajectories and their consequences for educational achievement. *Under review.* A preprint can be accessed [here](https://edarxiv.org/ch4jq/).
 
 Jascha Dräger, Markus Klein, Edward Sosu. Timing of absences and academic achievement - A comparison of England and Wales. *In progress.*
 
