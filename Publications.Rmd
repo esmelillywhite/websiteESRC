@@ -6,7 +6,14 @@ output: html_document
 
 # Peer-reviewed journal articles
 
-[Klein, M., & Sosu, M. (2023). School attendance and academic achievement: Understanding variation across family socioeconomic status. Sociology of Education, 00380407231191541](https://doi.org/10.1177/00380407231191541)
+
+Klein, M., & Sosu, M. (in press). School absences, academic achievement, and adolescents’ post-school destinations. Oxford Review of Education
+
+**Abstract:** Most research on the consequences of school absenteeism has focused on academic achievement but not post-school outcomes. Using the Scottish Longitudinal Study (n = 2,941), we investigated the link between overall absences, truancy, sickness-related absences, and upper secondary school leavers’ post-school destinations. We also examined how upper secondary school achievement explains these associations. Overall school absences during the first year of upper secondary schooling decreased the likelihood of continuing further and higher education, but increased the likelihood of being employed, or not being in education, employment, or training (NEET). Sickness absences and truancy also reduced the likelihood of pursuing further and higher education. Truancy did not significantly increase the risk of NEET, but sickness absences did. Both absence types did not significantly influence the likelihood of being employed. Academic achievement mediated 78%-100% of the link between overall absences, sickness absences or truancy and entry into further and higher education versus being employed. While achievement explained 38%–55% of the link between all absences and further and higher education versus NEET, it did not explain the link between absences and NEET versus being employed. The study emphasises the necessity of reducing both unexcused and excused school absences and mitigating their effects.<br> <br>
+
+
+
+[Klein, M., & Sosu, M. (2024). School attendance and academic achievement: Understanding variation across family socioeconomic status. Sociology of Education, 91(1), 58-75](https://doi.org/10.1177/00380407231191541)
 
 **Abstract:** Studies consistently show detrimental effects of school absences on pupils’ achievement. However, due to an accumulation of multiple risks, school absenteeism may be more harmful to achievement among pupils from lower socioeconomic status (SES). Using a sample of upper secondary students from the Scottish Longitudinal Study (n = 3,135), we investigated whether the association between absences (overall, sickness, and truancy) and achievement in high-stakes exams varied by family SES dimensions (parental education, class, free school meal registration, and housing). When considering overall absences and truancy, results show no statistically significant differences across SES groups. However, sickness absences were more harmful to lower than higher SES students' achievement. Differences between the most and least disadvantaged groups were found on all SES dimensions except for parental education.<br> <br>
 
@@ -29,13 +36,13 @@ output: html_document
 
 Jascha Dräger, Markus Klein, Edward Sosu. The long-term consequences of school absences for educational and labour market outcomes. *Revise and Resubmit.* A preprint can be accessed [here](https://edarxiv.org/7z2bx/).
 
-Markus Klein and Edward Sosu. School absences, educational achievement, and adolescents’ post-school destinations – Evidence from Scotland. *Revise and Resubmit.*
-
 Jascha Dräger, Markus Klein, Edward Sosu.School absences trajectories and their consequences for educational achievement. *Under review.* A preprint can be accessed [here](https://edarxiv.org/ch4jq/).
 
-Jascha Dräger, Markus Klein, Edward Sosu. Timing of absences and academic achievement - A comparison of England and Wales. *In progress.*
+Jascha Dräger, Markus Klein, Edward Sosu. Does the impact of pupil absences depend on their timing?. *In progress.*
 
-Jascha Dräger, Markus Klein, Edward Sosu. Socioeconomic status, school absences, and academic achievement - A causal mediation analysis *In progress.*
+Jascha Dräger, Markus Klein, Edward Sosu. The psychosocial pathways betweeen school absenteeism and academic achievement. *In progress.*
+
+Jascha Dräger, Markus Klein, Edward Sosu. Socioeconomic status, school absences, and academic achievement - A causal mediation analysis. *In progress.*
 
 Markus Klein, Edward Sosu, Kenvil Souza, and Samara Marta. A systematic review of interventions to reduce school absences. *In progress.*
 

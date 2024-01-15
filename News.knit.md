@@ -1,0 +1,96 @@
+---
+title: "News"
+output: html_document
+---
+
+***03 June 2021***
+
+We presented the paper “School absenteeism and academic achievement: Is missing out on school more detrimental for students from lower socioeconomic backgrounds” at the ISA RC28 Spring Meeting 2021 in Turku (virtual conference). For more information see here: https://rc28turku.utu.fi/  
+
+***24 May 2021***
+
+Together with Dr Markus Gehrsitz (University of Strathclyde), we organised the Strathclyde Engage Event “Data Can Tell Us ‘What Works’ in Education: Insights from Quantitative Education Research”.
+https://www.engage.strath.ac.uk/event/804  
+
+***21 May 2021***
+
+Dr Claire Cassidy (University of Strathclyde) interviewed us for the School of Education’s podcast series “Meet an academic”:
+https://anchor.fm/strathclyde-education/episodes/Podcast-21-Meet-an-academic-Dr--Edward-Sosu-and-Dr--Markus-Klein-e11an8n  
+
+***27 April 2021***
+
+The PI was invited to give a talk in the School of Education at the University of Glasgow and presented a summary of our current project findings.  
+
+***20 April 2021***
+
+Our paper “Socioeconomic status and school absenteeism: a systematic review and narrative synthesis” was accepted for publication at Review of Education.  
+
+***31 March 2021***
+
+We published a podcast summarising our first and second research brief as part of Education Scotland’s Signposting Equity Issue 12:
+https://sway.office.com/x5EJ7G2hrOjsTgnG?ref=Link
+
+
+***25 March 2021***
+
+The media and communications team at Strathclyde published a press release on our second research brief:
+https://www.strath.ac.uk/whystrathclyde/news/schoolabsenteeismroseamidpandemic-predominantlyinmoredeprivedareas/
+
+***28 February 2021***
+
+Our first research brief was discussed in the report "The Poverty-related Attainment Gap: A review of the evidence" by Poverty Alliance and the Robertson Trust.
+https://www.povertyalliance.org/wp-content/uploads/2021/02/The-Poverty-related-Attainment-Gap-A-Review-of-the-Evidence-2.pdf
+
+***02 February 2021***
+
+Our second research brief was discussed in an article in The Herald: 
+https://www.heraldscotland.com/news/19054348.agenda-tackling-disadvantage-faced-young-people-locked-poverty/
+
+***31 January 2021***
+
+We published our second research brief “Socioeconomic disparities in school absenteeism after the first wave of Covid-19 school closures in Scotland:
+https://pure.strath.ac.uk/ws/portalfiles/portal/117483909/Sosu_Klein_2021_Socioeconomic_disparities_in_school_absenteeism_after.pdf
+
+***30 November 2020***
+Our project is discussed in the GTCS publication Teaching Scotland (Issue 86):
+https://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&edid=217750e9-ff63-45d8-8f1a-8e4e3fd6a35f
+
+***11 November 2020***
+
+The media and communications team at Strathclyde published a press release on our paper published in Children and Youth Services Review: https://www.strath.ac.uk/whystrathclyde/news/broadermeasuresneededtoaddressinequalitiesinschoolabsenteeism/
+
+***31 October 2020***
+
+We published a blog for the School of Education at the University of Strathclyde summarising our results so far: https://www.strath.ac.uk/humanities/schoolofeducation/blog/schoolattendanceandthepoverty-relatedattainmentgap/
+
+***31 August 2020***
+
+We published our first research brief “Socioeconomic inequalities in school attendance in Scotland: Research brief”: https://pure.strath.ac.uk/ws/portalfiles/portal/107303630/Klein_etal_UoS_2020_Socioeconomic_Inequalities_in_School_Attendance_in_Scotland.pdf
+
+***28 August 2020***
+
+Our paper “Mapping inequalities in school attendance: the relationship between dimensions of socioeconomic status and forms of school absences” was accepted for publication in Children and Youth Services Review.
+
+***25 September 2019***
+We presented the paper “School absenteeism and educational attainment: Is missing out on school more detrimental to students from lower socioeconomic backgrounds? At the Society for Longitudinal and Lifecourse Studies (SLLS) Annual Conference 2019 in Potsdam, Germany.
+
+***24 September 2019***
+
+Our research associate, Dr Shadrach Dare, attended a course on causal mediation analysis (Dr Michael Kühhirt) at GESIS in Mannheim, Germany. 
+
+***04 September 2019***
+
+We presented the paper “Who is missing out on school? Exploring socioeconomic inequalities in school absenteeism” at the European Conference on Educational Research (ECER) 2019 in Hamburg, Germany. For more information see here: https://eera-ecer.de/ecer-programmes/conference/24/contribution/47563/
+
+***30 April 2019***
+
+We presented first results from our project at the Engage Strathclyde event “Who is Missing Out on School? The Role of School Absenteeism in the Poverty-Related Attainment Gap”. For more information see here: https://www.engage.strath.ac.uk/event/604
+
+***11 October 2018***
+
+We had our first meeting with our non-academic partners Poverty Alliance and General Teaching Council of Scotland
+
+***03 July 2018***
+
+Our project “Social Inequalities in Educational Attainment: An Investigation into the Mediating Role of School Absenteeism” has now been assessed by the SLS Research Board and our request has been approved. For more information on the Scottish Longitudinal Study and our project see here: https://sls.lscs.ac.uk/projects/view/2018_007/
+
