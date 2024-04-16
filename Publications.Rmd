@@ -37,9 +37,9 @@ output: html_document
 
 # Work in progress
 
-Jascha Dräger, Markus Klein, Edward Sosu. School absences trajectories and their consequences for educational achievement. *Under review.* A preprint can be accessed [here](https://edarxiv.org/ch4jq/).
+Jascha Dräger, Markus Klein, Edward Sosu. School absences trajectories and their consequences for educational achievement. *Revise & Resubmit.* A preprint can be accessed [here](https://edarxiv.org/ch4jq/).
 
-Jascha Dräger, Markus Klein, Edward Sosu. Does the impact of pupil absences depend on their timing?. *In progress.*
+Jascha Dräger, Markus Klein, Edward Sosu. Does the impact of pupil absences depend on their timing?. *Under review.* A preprint can be accessed [here](https://osf.io/preprints/edarxiv/nwzqh).
 
 Jascha Dräger, Markus Klein, Edward Sosu. The psychosocial pathways betweeen school absenteeism and academic achievement. *In progress.*
 
