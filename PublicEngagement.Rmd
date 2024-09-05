@@ -4,79 +4,6 @@ output: html_document
 ---
 <br>
 
-# Research briefs
-
-
-[Dräger, J, Klein, M., & Sosu, E. (2023) Trajectories of School Absences and Pupils' Academic Performance. Research Brief. University of Strathclyde](https://pure.strath.ac.uk/ws/portalfiles/portal/179401547/Drager-etal-UoS-2023-Trajectories-of-School-Absences-and-Pupils-Academic-Performance.pdf)
-
-**Key Points:**
-
-- Two-thirds of pupils have consistently low absence trajectories,
-while one-third demonstrate some form of moderate to high
-absence trajectories over the compulsory schooling period.
-- More than one-fourth of pupils have consistently moderate
-authorised absences.
-- Three smaller groups have moderately increased unauthorised,
-strongly increasing authorised, and strongly increasing
-unauthorised absences.
-- All identified absence trajectories have a detrimental impact
-on GCSE achievement in year 11, with increasing unauthorised
-absences having the most harmful impact.
-- While extreme levels of unauthorised absences are most
-detrimental, a narrow policy focus on this absentee group will
-miss many students with other absence trajectories, whose
-impact is also harmful to achievement.
-- The findings emphasise the need for a nuanced approach
-to combating absenteeism, including tailored support for
-students in different absence trajectory groups.
-
-
-<br>
-
-[Klein, M., Sosu, E., & Lillywhite, E. (2022) School Absenteeism and Educational Attainment - Evidence from the Scottish Longitudinal Study. Research Brief. University of Strathclyde](https://strathprints.strath.ac.uk/80713/)
-
-**Key Points:**
-
-- School absences are detrimental to educational attainment in national exams at the end of compulsory (S4) and post-compulsory schooling (S5/S6) in Scotland.
-- Truancy, sickness-related absences, and absences due to exceptional domestic circumstances each have a unique negative impact on educational attainment at both stages.
-- Our findings suggest three additional pathways through which absence may affect academic achievement: a behavioural pathway, a health pathway, and a psychosocial pathway.
-- Our research challenges previous assumptions that unexcused absences are more harmful than excused absences and calls for equal emphasis on tackling all forms of school absence.
-- Research and interventions need to focus on mitigating the harmful consequences of school absenteeism, considering the reason for absence.
-
-<br>
-
-[Sosu, E., & Klein, M. (2021). Socioeconomic disparities in school absenteeism after the first wave of COVID-19 school closures in Scotland. Research Brief. University of Strathclyde](https://www.researchgate.net/publication/348478558_Socioeconomic_disparities_in_school_absenteeism_after_the_first_wave_of_COVID-19_school_closures_in_Scotland)
-
-**Key Points:**
-
-- Student absences after the first wave of Covid-19 school closures were higher than in previous years 
-- Higher rates of absenteeism after school lockdown were due to COVID-19 related reasons 
-- Overall, non-Covid-19-related absence rates are similar to trends observed in earlier years 
-- Socioeconomic inequalities in school absenteeism were higher post-lockdown than in previous years 
-- This increase can be attributed to rising disparities in school absenteeism due to Covid19-related and non-Covid-19 reasons 
-- The rise in socioeconomic inequality in nonCovid-19related absenteeism was not only due to higher absence rates among students from the most deprived areas but also due to lower absence rates among students from the least deprived areas 
-- Addressing the disproportionate short- and long-term impact of the pandemic on the most vulnerable children needs to be at the forefront of policy agenda 
-- We need greater monitoring and evaluation of:
-  - inequalities in home learning during the second round of school    closures 
-  - inequalities in academic achievement after school reopening 
-  - policy interventions designed to mitigate the consequences of Covid-19 on achievement gaps.
-  
-<br>
-
-[Klein, M., Goodfellow, C., Dare, S., & Sosu, E. (2020). Socioeconomic Inequalities in School Attendance in Scotland: Research Brief. University of Strathclyde.](https://www.researchgate.net/publication/343737573_Socioeconomic_Inequalities_in_School_Attendance_in_Scotland_-_Research_Brief)
-
-**Key points:**
-
-- Absenteeism from school is socially stratified and being absent from school is likely an important contributor to the attainment gap in Scotland.
-- All dimensions of socioeconomic background increased the risk of overall absenteeism from school. 
-- Pupils from socially rented households, and households with no qualifications are the most likely to be absent from school, and these factors are consistently associated with all forms of absenteeism (overall, sickness based, truancy, temporary exclusion) except family holidays. 
-- The association between socioeconomic background and absenteeism did not vary across gender or place of residence (urban vs rural). 
-- It is likely that COVID-19 related school closures will exacerbate socioeconomic inequalities in school attendance. 
-- There is an urgent need to address socioeconomic inequalities in school absenteeism.
-
-<br>
-
-
 
 # Knowledge Exchange Events
 
@@ -169,9 +96,13 @@ We submitted [Written Evidence](https://committees.parliament.uk/writtenevidence
 
 ***2024***
 
+The TES Magazine has covered our Nuffield Foundation report in the article [Absence during school transition ‘is especially harmful’](https://www.tes.com/magazine/news/general/pupil-absence-during-school-transition-most-harmful) (September 2024)
+
+The PI was interviewed on the radio show 'Toronto Today with Greg Brady' on 640 Toronto (September 2024).
+
 We have written the article [The harmful effects of absence stretch beyond school](https://www.tes.com/magazine/analysis/general/harmful-effects-pupil-absence-go-beyond-school) for TES magazine (May 2024).
 
-Our [BERJ article](https://bera-journals.onlinelibrary.wiley.com/doi/10.1002/berj.3992) on the long-term consequences of school absences for educational and labour market outcomes was mentioned in The Conversation article [School suspensions are on the rise – secondary schools can tackle this by creating a sense of belonging](https://theconversation.com/school-suspensions-are-on-the-rise-secondary-schools-can-tackle-this-by-creating-a-sense-of-belonging-229155) (May 2024)
+Our [BERJ article](https://bera-journals.onlinelibrary.wiley.com/doi/10.1002/berj.3992) on the long-term consequences of school absences for educational and labour market outcomes was cited in The Conversation article [School suspensions are on the rise – secondary schools can tackle this by creating a sense of belonging](https://theconversation.com/school-suspensions-are-on-the-rise-secondary-schools-can-tackle-this-by-creating-a-sense-of-belonging-229155) (May 2024)
 
 ***2023***
 
