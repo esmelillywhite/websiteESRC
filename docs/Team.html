@@ -13,7 +13,7 @@
 
 <title>Team</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -174,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -183,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -333,7 +330,7 @@ or <i>Social Science Research.</i>
 <div class="col-sm-9">
 <p>
 <p><strong>Edward Sosu (Co-I):</strong></p>
-Dr Edward Sosu is a Reader and currently Deputy Head of School for
+Dr Edward Sosu is a Professor and currently Deputy Head of School for
 Research in the Institute of Education at the University of Strathclyde.
 He has a strong interest in quantitative methods and in addressing
 educational issues from a psychological perspective. His current
@@ -387,28 +384,7 @@ experiences between children of high and low socio-economic status.
 <p><br></p>
 <div class="row">
 <div class="col-sm-3">
-<p><img src="images/Olga.jpg" /></p>
-</div>
-<div class="col-sm-9">
-<p>
-<p><strong>Olga Rotar: </strong></p>
-<p>Dr. Olga Rotar is a Research Associate in the School of Education at
-the University of Strathclyde, with research interests at the
-intersection of economics and education. Olga holds a BS in Economics
-and Management from Saint-Petersburg University of Civil Aviation, an MA
-in Government and Municipal Finance from Saint-Petersburg University of
-Economics, and a PhD in Educational Research from Lancaster
-University.</p>
-Olga’s primary research interests encompass the digitalization of
-education, inequalities in education, and the economics of education.
-Previously, she worked at the International Laboratory of Analysis of
-Economic Reforms (Laboratory) at the Higher School of Economics, where
-she contributed to a project on MOOCs acceptance and use in education,
-and conducted a post-doctoral project on digitalisation of the academic
-labour market. Currently, she is involved in a project on the effects of
-school mergers and acquisitions on UK school performances at Lancaster
-University, Department of Economics. </i>
-</p>
+
 </div>
 </div>
 <p><br></p>
@@ -435,7 +411,7 @@ perception of facial cues in social robots, etc.
 <p><br></p>
 <div class="row">
 <div class="col-sm-3">
-<p><img src="images/sm.JPG" /></p>
+<p><img src="images/sm2.jpeg" /></p>
 </div>
 <div class="col-sm-9">
 <p>

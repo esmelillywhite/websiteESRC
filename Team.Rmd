@@ -45,7 +45,7 @@ Dr Markus Klein is a Reader in Human Development and Education Policy and curren
 <div class="col-sm-9"> 
 <p>**Edward Sosu (Co-I):**
 
-Dr Edward Sosu is a Reader and currently Deputy Head of School for Research in the Institute of Education at the University of Strathclyde. He has a strong interest in quantitative methods and in addressing educational issues from a psychological perspective. His current research is predominantly focused on understanding how socioeconomic disadvantage influences educational and psychological trajectories from early childhood.  
+Dr Edward Sosu is a Professor and currently Deputy Head of School for Research in the Institute of Education at the University of Strathclyde. He has a strong interest in quantitative methods and in addressing educational issues from a psychological perspective. His current research is predominantly focused on understanding how socioeconomic disadvantage influences educational and psychological trajectories from early childhood.  
 Edward’s research interest cuts across high-, middle- and low-income country contexts. He was the lead author of the influential Joseph Rowntree Foundation report on [Closing the Attainment Gap In Scottish Education](http://www.jrf.org.uk/sites/files/jrf/education-attainment-scotland-full.pdf). He has extensive experience of policy engagement and is keen to find ways that to enable research outcomes to make a difference to the lives of the most vulnerable in society. </p>
 </div>
 </div><br>
@@ -71,16 +71,7 @@ At the University of Bristol, she is currently involved in the ESRC-funded BIPE 
 <div class="row">
 <div class="col-sm-3">
 
-![](images/olga.jpg)
 
-</div>
-
-<div class="col-sm-9"> 
-<p>**Olga Rotar: **
-
-Dr. Olga Rotar is a Research Associate in the School of Education at the University of Strathclyde, with research interests at the intersection of economics and education. Olga holds a BS in Economics and Management from Saint-Petersburg University of Civil Aviation, an MA in Government and Municipal Finance from Saint-Petersburg University of Economics, and a PhD in Educational Research from Lancaster University.
-
-Olga’s primary research interests encompass the digitalization of education, inequalities in education, and the economics of education. Previously, she worked at the International Laboratory of Analysis of Economic Reforms (Laboratory) at the Higher School of Economics, where she contributed to a project on MOOCs acceptance and use in education, and conducted a post-doctoral project on digitalisation of the academic labour market. Currently, she is involved in a project on the effects of school mergers and acquisitions on UK school performances at Lancaster University, Department of Economics. </i> </p>
 </div>
 </div><br>
 
@@ -106,7 +97,7 @@ Kenvil Souza is a PhD student in psychology at the University of Strathclyde. He
 <div class="col-sm-3">
 
 
-![](images/sm.JPG)
+![](images/sm2.jpeg)
 
 </div>
 

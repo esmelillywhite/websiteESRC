@@ -21,7 +21,7 @@ output: html_document
 # **Understanding school attendance, education and labour market outcomes ** 
 
 <br> <br>
-**Duration:** May 2022 - August 2024\
+**Duration:** May 2022 - September 2024\
 **Funding:** Nuffield Foundation
 
 This project has received funding from the Nuffield Foundation.

@@ -13,7 +13,7 @@
 
 <title>Public Engagement</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -174,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -183,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -290,6 +287,11 @@ $(document).ready(function () {
 <div id="knowledge-exchange-events" class="section level1">
 <h1>Knowledge Exchange Events</h1>
 <p><strong><em>2024</em></strong></p>
+<p>The PI and Co-I organised the Symposium “Understanding the
+multifaceted impact of pupil absences on academic achievement: Timing,
+trajectories, psychosocial pathways and sociodemographic differences” at
+the BPS Psychology of Education Annual Conference at the University of
+Cambridge (September 2024)</p>
 <p>We organised the Knowledge Exchange events “Understanding School
 Attendance, Education, and Labour Market Outcomes” summarising findings
 from our Nuffield Foundation project and providing key policy and
@@ -300,14 +302,6 @@ April).</p>
 next?” for policymakers and practitioners together with Prof Gillean
 McCluskey and Dr Annie Taylor (University of Edinburgh) from the
 Excluded Lives project (06 June).</p>
-<p>We provided the Keynote “Determinants and Consequences of School
-Absenteeism” at the <a
-href="https://blogs.glowscotland.org.uk/glowblogs/public/fvwlric/uploads/sites/7616/2023/02/03100640/Attendance-Symposium-Brochure.pdf">Attendance
-Symposium</a>, a professional learning event for educators, aimed at
-addressing school attendance problems to improve life outcomes for
-children and young people in Scotland (27 March). The event was
-organised by the Forth Valley and West Lothian Regional Improvement
-Collaborative:</p>
 <p><strong><em>2022</em></strong></p>
 <p>Together with Poverty Alliance and General Teaching Council for
 Scotland (GTCS), we organised the Webinar <a
@@ -329,6 +323,17 @@ Attainment Gap</a>.</p>
 <div id="invited-talks" class="section level1">
 <h1>Invited Talks</h1>
 <p><strong><em>2024</em></strong></p>
+<p>The PI and Co-I have given talks at the EEF Tuesday Twilight Seminar
+”The short- and long-term consequences of school absences” at the
+Education Endowment Foundation (September 2024).</p>
+<p>The PI has given the Keynote ”School Attendance Problems: Causes,
+Trends, and Impacts” at the OECD Peer-learning discussion I – Monitoring
+of school attendance problems and early leaving from education and
+training at the OECD in Paris (September 2024)</p>
+<p>The PI and Co-I have given the Keynote “Understanding school
+attendance, educational attainment, and labour market outcomes” at the
+CQIS Attendance Conference at South Lanarkshire Council (September
+2024)</p>
 <p>The PI and Co-I were invited to present findings from their project
 at the Nuffield Foundation event <a
 href="https://www.nuffieldfoundation.org/events/the-impact-of-school-absence">The
@@ -342,6 +347,14 @@ Educational Psychology (SDEP) Non-Attendance Working Group (March
 <p>PI and Co-I presented a summary of our absenteeism research in the
 Scottish Government Educational Research Seminar Series (May 2023). We
 also provided a policy brief for dissemination among civil servants.</p>
+<p>We provided the Keynote “Determinants and Consequences of School
+Absenteeism” at the <a
+href="https://blogs.glowscotland.org.uk/glowblogs/public/fvwlric/uploads/sites/7616/2023/02/03100640/Attendance-Symposium-Brochure.pdf">Attendance
+Symposium</a>, a professional learning event for educators, aimed at
+addressing school attendance problems to improve life outcomes for
+children and young people in Scotland (March 2023). The event was
+organised by the Forth Valley and West Lothian Regional Improvement
+Collaborative:</p>
 <p><strong><em>2022</em></strong></p>
 <p>The PI presented our research in the Scottish Quantitative Education
 Workshop at the University of Glasgow</p>

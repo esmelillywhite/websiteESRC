@@ -9,15 +9,14 @@ output: html_document
 
 ***2024***
 
+The PI and Co-I organised the Symposium "Understanding the multifaceted impact of pupil absences on academic achievement: Timing, trajectories, psychosocial pathways and sociodemographic differences" at the BPS Psychology of Education Annual Conference at the University of Cambridge (September 2024)
+
 We organised the Knowledge Exchange events "Understanding School Attendance, Education, and Labour Market Outcomes" summarising findings from our Nuffield Foundation project and providing key policy and practice implications in Cardiff (23rd April) and Manchester (25th April).
 
 
 ***2023***
 
 We organised the event "Absenteeism and exclusion research - What next?" for policymakers and practitioners together with Prof Gillean McCluskey and Dr Annie Taylor (University of Edinburgh) from the Excluded Lives project (06 June).
-
-
-We provided the Keynote "Determinants and Consequences of School Absenteeism" at the [Attendance Symposium](https://blogs.glowscotland.org.uk/glowblogs/public/fvwlric/uploads/sites/7616/2023/02/03100640/Attendance-Symposium-Brochure.pdf), a professional learning event for educators, aimed at addressing school attendance problems to improve life outcomes for children and young people in Scotland (27 March). The event was organised by the Forth Valley and West Lothian Regional Improvement Collaborative: 
 
 
 ***2022***
@@ -40,6 +39,16 @@ We presented first results from our project at the Engage Strathclyde event [Who
 
 ***2024***
 
+The PI and Co-I have given talks at the EEF Tuesday Twilight Seminar ”The short- and long-term consequences of school
+absences” at the Education Endowment Foundation (September 2024).
+
+The PI has given the Keynote ”School Attendance Problems:
+Causes, Trends, and Impacts” at the OECD Peer-learning discussion I – Monitoring of school attendance problems and early leaving from education and training at the OECD in Paris (September 2024)
+
+
+The PI and Co-I have given the Keynote "Understanding school attendance, educational attainment, and labour market outcomes” at  the CQIS Attendance Conference at South Lanarkshire Council (September 2024)
+
+
 The PI and Co-I were invited to present findings from their project at the Nuffield Foundation event [The impact of school absence, school closure and learning loss: What can be done](https://www.nuffieldfoundation.org/events/the-impact-of-school-absence). A recording of the event is available.
 
 The PI has given the talk "Socioeconomic status, school absences, and educational and labour market outcomes to the Scottish Division of Educational Psychology (SDEP) Non-Attendance Working Group (March 2024)
@@ -49,6 +58,7 @@ The PI has given the talk "Socioeconomic status, school absences, and educationa
 
 PI and Co-I presented a summary of our absenteeism research in the Scottish Government Educational Research Seminar Series (May 2023). We also provided a policy brief for dissemination among civil servants.
 
+We provided the Keynote "Determinants and Consequences of School Absenteeism" at the [Attendance Symposium](https://blogs.glowscotland.org.uk/glowblogs/public/fvwlric/uploads/sites/7616/2023/02/03100640/Attendance-Symposium-Brochure.pdf), a professional learning event for educators, aimed at addressing school attendance problems to improve life outcomes for children and young people in Scotland (March 2023). The event was organised by the Forth Valley and West Lothian Regional Improvement Collaborative: 
 
 
 ***2022***
