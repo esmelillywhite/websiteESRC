@@ -7,6 +7,11 @@ output: html_document
 
 # Knowledge Exchange Events
 
+***2025***
+
+The PI was invited and participated in the Department for Education (DfE) roundtable on School Attendance (January 2025)
+
+
 ***2024***
 
 The PI and Co-I organised the Symposium "Understanding the multifaceted impact of pupil absences on academic achievement: Timing, trajectories, psychosocial pathways and sociodemographic differences" at the BPS Psychology of Education Annual Conference at the University of Cambridge (September 2024)
@@ -38,6 +43,9 @@ We presented first results from our project at the Engage Strathclyde event [Who
 
 
 ***2024***
+
+The PI has given the talk ”The short- and long-term consequences of school
+absences” to the West Partnership Attendance Specialist Network (December 2024)
 
 The PI and Co-I have given talks at the EEF Tuesday Twilight Seminar ”The short- and long-term consequences of school
 absences” at the Education Endowment Foundation (September 2024).
@@ -103,6 +111,11 @@ We submitted [Written Evidence](https://committees.parliament.uk/writtenevidence
 <br>
 
 # Media & blogs
+
+***2025***
+
+The PI was interviewed by the Sunday Post for their article [Present and correct? School experts say over-focus on attendance fails to tackle absenteeism and could be harmful to children](https://www.sundaypost.com/fp/school-attendance/) (February 2025)
+
 
 ***2024***
 
