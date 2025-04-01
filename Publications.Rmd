@@ -125,11 +125,11 @@ students in different absence trajectory groups.
 # Work in progress
 
 
-Jascha Dräger, Markus Klein, Edward Sosu. Does the impact of pupil absences depend on their timing?. *Revise and resubmit*. A preprint can be accessed [here](https://osf.io/preprints/edarxiv/nwzqh).
+Jascha Dräger, Markus Klein, Edward Sosu. Does the impact of pupil absences depend on their timing?. *Conditional Accept*. A preprint can be accessed [here](https://osf.io/preprints/edarxiv/nwzqh).
 
 Jascha Dräger, Markus Klein, Edward Sosu. Socioeconomic status, school absences, and academic achievement - A causal mediation analysis. *Under review*. A preprint can be accessed [here](https://osf.io/preprints/socarxiv/w4bdc).
 
-Jascha Dräger, Markus Klein, Edward Sosu. The psychosocial pathways betweeen school absenteeism and academic achievement. *In progress*.
+Jascha Dräger, Markus Klein, Edward Sosu. The psychosocial pathways betweeen school absenteeism and academic achievement. *In preparation for submission*.
 
 Olga Rotar, Valentina Perinetti Casoni, Markus Klein, Edward Sosu. Do pupil absences always hurt achievement equally? An analysis of effect heterogeneity across boys and girls. *In progress*.
 
