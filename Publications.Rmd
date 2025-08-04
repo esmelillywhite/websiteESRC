@@ -7,7 +7,7 @@ output: html_document
 
 # Peer-reviewed journal articles
 
-[Dräger, J., Klein, M., & Sosu, E. M. (2025). Does the impact of pupil absences depend on their timing? American Educational Research Journal, 0(0). https://doi.org/10.3102/00028312251347666](https://journals.sagepub.com/doi/10.3102/00028312251347666)
+[Dräger, J., Klein, M., & Sosu, E. M. (2025). Does the impact of pupil absences on achievement depend on their timing? American Educational Research Journal, 0(0). https://doi.org/10.3102/00028312251347666](https://journals.sagepub.com/doi/10.3102/00028312251347666)
 
 **Abstract:**
 Using linked data from the Millennium Cohort Study and National Pupil Database (N = 8,139), this study examined how the timing of school absences (years 1 to 11 between 2006 and 2017) affects achievement at the end of compulsory schooling in England. Absences during any school year are harmful to student achievement. However, absences in years 1 and 6 (the final year of primary school), and between years 6 to 10 (the penultimate year of compulsory secondary schooling) are more detrimental to academic performance than in other years. Authorized absences hurt academic performance as much as unauthorized absences. To test the external validity of our findings, we used comparable data and analytic methods for Wales and reached the same conclusions.<br> <br>
