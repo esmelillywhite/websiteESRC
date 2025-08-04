@@ -50,48 +50,9 @@ Edward’s research interest cuts across high-, middle- and low-income country c
 </div>
 </div><br>
 
-### Research Associates
-
-<div class="row">
-<div class="col-sm-3">
-
-![](images/vpcprofile.png)
-
-</div>
-
-<div class="col-sm-9"> 
-<p>**Valentina Perinetti Casoni: **
-
-Valentina Perinetti Casoni holds a Research Associate position at the University of Strathclyde and a Senior Research Associate position at the University of Bristol. She has a BA in International Studies and Diplomacy from the Università degli Studi di Trieste and a Double MSc in Public Policy & Human Development from Maastricht University (MU) and the United Nations University (UNU-MERIT) where she specialised in Social Protection Policy Design and Financing.
-At the University of Bristol, she is currently involved in the ESRC-funded BIPE project [BIPE project](https://bipeproject.blogs.bristol.ac.uk/) which investigates how students’ socioeconomic background and ethnicity impact on teachers’ views of their attitudes to school and school performance. Valentina’s research aims at producing robust, policy-relevant, quantitative evidence of how educational systems and policies can re-balance or reinforce educational inequalities and social stratification. In particular, she is interested in investigating school-related and classroom-related mechanisms that might exacerbate or reduce differences not just in achievement but also in learning experiences between children of high and low socio-economic status.
-.</i> </p>
-</div>
-</div><br>
-
-<div class="row">
-<div class="col-sm-3">
 
 
-</div>
-</div><br>
-
-### Research Assistants
-
-<div class="row">
-<div class="col-sm-3">
-
-
-![](images/ks.jpg)
-
-</div>
-
-<div class="col-sm-9"> 
-<p>**Kenvil Souza: **
-
-Kenvil Souza is a PhD student in psychology at the University of Strathclyde. Her research focusses on the association between childhood experiences and suicide risk through the application and testing of theoretical models. Previously, she completed her MSc in psychological science (conversion) at the University of Glasgow and assisted on research projects focussed on guidelines for digital play in children, perception of facial cues in social robots, etc.</p>
-</div>
-</div><br>
-
+### Research Assistant
 
 <div class="row">
 <div class="col-sm-3">
@@ -112,6 +73,8 @@ Samara Marta is an ESRC 1+3 PhD student at the University of Strathclyde. Her pr
 
 
 ### Previous Research Associates
+
+[Valentina Perinetti Casoni](https://www.thebridgegroup.org.uk/ourstaff) <br>
 [Dr Jascha Dräger](https://www.diw.de/de/diw_01.c.881111.de/personen/draeger__jascha.html) <br>
 [Dr Shadrach Dare](https://www.gcu.ac.uk/staff/shadrachdare)  
 [Dr Claire Goodfellow](https://www.researchgate.net/profile/Claire-Goodfellow)  <br>  <br>

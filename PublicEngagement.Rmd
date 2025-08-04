@@ -5,7 +5,7 @@ output: html_document
 <br>
 
 
-# Knowledge Exchange Events
+# Knowledge Exchange (KE) Events
 
 ***2025***
 
@@ -14,7 +14,9 @@ The PI was invited and participated in the Department for Education (DfE) roundt
 
 ***2024***
 
-The PI and Co-I organised the Symposium "Understanding the multifaceted impact of pupil absences on academic achievement: Timing, trajectories, psychosocial pathways and sociodemographic differences" at the BPS Psychology of Education Annual Conference at the University of Cambridge (September 2024)
+In collaboration with the Scottish Government and Education Scotland, the PI and Co-I organised the KE event ”Promoting School Attendance: Questions for Research, Policy, and Practice” at the University of Strathclyde (September 2024).
+
+The PI and Co-I organised the Symposium "Understanding the multifaceted impact of pupil absences on academic achievement: Timing, trajectories, psychosocial pathways and sociodemographic differences" at the BPS Psychology of Education Annual Conference at the University of Cambridge (September 2024).
 
 We organised the Knowledge Exchange events "Understanding School Attendance, Education, and Labour Market Outcomes" summarising findings from our Nuffield Foundation project and providing key policy and practice implications in Cardiff (23rd April) and Manchester (25th April).
 
@@ -39,27 +41,30 @@ We presented first results from our project at the Engage Strathclyde event [Who
 
 <br>
 
-# Invited Talks
+# Invited Talks/Keynotes
 
 ***2025***
+
+The PI has given the Keynote ”Understanding the causes
+and consequences of school absenteeism” at the Tusla Education Welfare Service Conference, Kilkenny, Ireland (June 2025).
+
+The PI was invited to give the talk ”The short- and long-term consequences of school absences” in the National Foundation for Educational Research (NFER) Seminar Series (June 2025)
 
 The PI has given the keynote "Understanding school attendance, educational attainment, and labour market outcomes" at the Annual Scottish Educational Psychology Conference (March 2025)
 
 
 ***2024***
 
-The PI has given the talk ”The short- and long-term consequences of school
+The PI was invited to give the talk ”The short- and long-term consequences of school
 absences” to the West Partnership Attendance Specialist Network (December 2024)
 
-The PI and Co-I have given talks at the EEF Tuesday Twilight Seminar ”The short- and long-term consequences of school
-absences” at the Education Endowment Foundation (September 2024).
+The PI and Co-I were invited to give the talk ”The short- and long-term consequences of school
+absences” at the Education Endowment Foundation Tuesday Twilight Seminar (September 2024)
 
 The PI has given the Keynote ”School Attendance Problems:
 Causes, Trends, and Impacts” at the OECD Peer-learning discussion I – Monitoring of school attendance problems and early leaving from education and training at the OECD in Paris (September 2024)
 
-
 The PI and Co-I have given the Keynote "Understanding school attendance, educational attainment, and labour market outcomes” at  the CQIS Attendance Conference at South Lanarkshire Council (September 2024)
-
 
 The PI and Co-I were invited to present findings from their project at the Nuffield Foundation event [The impact of school absence, school closure and learning loss: What can be done](https://www.nuffieldfoundation.org/events/the-impact-of-school-absence). A recording of the event is available.
 
@@ -102,7 +107,14 @@ We published a [podcast](https://sway.office.com/x5EJ7G2hrOjsTgnG?ref=Link) summ
 <br>
 
 
-# Parliamentary evidence
+# Policy Impact
+
+***2025***
+
+The [Scottish Government's School attendance Guidance Working Group](https://www.gov.scot/publications/school-attendance-guidance-working-group-terms-of-reference/) draws on our research evidence to support development of refreshed guidance on school attendance
+
+[Ofsted](https://www.gov.uk/government/consultations/improving-the-way-ofsted-inspects-education/improving-the-way-ofsted-inspects-education-supporting-evidence-base) has used our research evidence to inform and develop the design of their toolkits, the proposed inspection methodology and inspector training.
+
 
 ***2023***
 
@@ -114,7 +126,7 @@ We submitted [Written Evidence](https://committees.parliament.uk/writtenevidence
 
 <br>
 
-# Media & blogs
+# Media & Blogs
 
 ***2025***
 
