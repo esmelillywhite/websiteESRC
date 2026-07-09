@@ -4,46 +4,54 @@ output: html_document
 ---
 <br>
 
+# Policy Impact
 
-# Knowledge Exchange (KE) Events
+***2026***
+
+The PI has contributed as an international expert to the OECD report [Every Day Counts: Understanding, Preventing and Responding to School Attendance Problems](https://www.oecd.org/en/publications/every-day-counts_7c6f6c3e-en.html). More specifically, the PI authored a substantial background note on the consequences of school attendance problems, which informed the report's evidence base. He further provided detailed feedback on draft chapters and the international policy survey. 
+
+Research from our programme is extensively referenced throughout [Glasgow City Council's Attendance Practice Guidance for Establishments](https://blogs.glowscotland.org.uk/glowblogs/public/glasgowpsychologicalservice/uploads/sites/4587/2025/02/07105657/Glasgow-Schools-Attendance-Practice-Guidelines.pdf). The guidance draws on findings from our research to inform local authority policy and provides evidence-based recommendations for schools on understanding, monitoring and responding to attendance problems. This demonstrates the translation of research into operational guidance supporting attendance practice across one of Scotland's largest local authorities. 
+
+Our research informed the Scottish Government's national attendance guidance: It formed part of the core evidence base underpinning the Scottish Government's refresh of [Included, Engaged and Involved Part 1: Improving Attendance in Scotland's Schools](https://www.gov.scot/publications/included-engaged-involved-part-1-improving-attendance-scotlands-schools/documents). The Working Group's [Terms of Reference](https://www.gov.scot/publications/school-attendance-guidance-working-group-terms-of-reference/) identified our Nuffield Foundation report "Understanding School Attendance, Educational Attainment, and Labour Market Outcomes" as one of the principal evidence sources informing the revision, and the published guidance explicitly cites my findings on the long-term educational and labour market consequences of school absence.   
+
 
 ***2025***
 
-Participation in the Department for Education (DfE) roundtable on School Attendance (January 2025)
+
+Our research has been extensively cited across a series of Department for Education analytical reports:
+
+[The Impact of School Absences on Lifetime Earnings] (https://www.gov.uk/government/publications/the-impact-of-school-absence-on-lifetime-earnings}
+
+[Relationship between mental ill health and absence in students aged 13 to 16] (https://www.gov.uk/government/publications/relationship-between-mental-ill-health-and-absence-in-students-aged-13-to-16)
+
+[Factors influencing primary school pupils’ educational outcomes] (https://www.gov.uk/government/publications/factors-influencing-primary-school-pupils-educational-outcomes)
+
+[Factors influencing secondary school pupils’ educational outcomes] (https://www.gov.uk/government/publications/factors-influencing-secondary-school-pupils-educational-outcomes)
+
+Research from our programme on the causes and consequences of school absence is cited in the Northern Ireland Department of Education's report [Outcome Based Research into the Current and Future Impact of Nurture Provision in Northern Ireland]{https://www.education-ni.gov.uk/publications/rsm-nurture-research-final-report-july-2025}. 
+
+Research from our programme on school attendance and educational inequalities informed the Welsh Government's [Review of Practices to Prevent School Exclusions](https://www.gov.wales/review-practices-prevent-school-exclusions)
 
 
-***2024***
-
-In collaboration with the Scottish Government and Education Scotland, we organised the KE event ”Promoting School Attendance: Questions for Research, Policy, and Practice” at the University of Strathclyde (September 2024).
-
-We organised the Symposium "Understanding the multifaceted impact of pupil absences on academic achievement: Timing, trajectories, psychosocial pathways and sociodemographic differences" at the BPS Psychology of Education Annual Conference at the University of Cambridge (September 2024).
-
-We organised the Knowledge Exchange events "Understanding School Attendance, Education, and Labour Market Outcomes" summarising findings from our Nuffield Foundation project and providing key policy and practice implications in Cardiff (23rd April) and Manchester (25th April).
+[Ofsted](https://www.gov.uk/government/consultations/improving-the-way-ofsted-inspects-education/improving-the-way-ofsted-inspects-education-supporting-evidence-base) has used our research evidence to inform and develop the design of their toolkits, the proposed inspection methodology and inspector training.
 
 
 ***2023***
 
-We organised the event "Absenteeism and exclusion research - What next?" for policymakers and practitioners together with Prof Gillean McCluskey and Dr Annie Taylor (University of Edinburgh) from the Excluded Lives project (06 June).
+We were invited to present evidence at the [06 December meeting of the All Party Parliamentary Group (APPG) for Parental Participation in Education with a focus on school attendance](https://www.parentkind.org.uk/research-and-policy/education-policy/policy-in-england/all-party-parliamentary-group-for-england/appg-6th-december-2023)
 
-
-***2022***
-
-Together with Poverty Alliance and General Teaching Council for Scotland (GTCS), we organised the Webinar [School absences and the poverty-related attainment gap](https://www.strath.ac.uk/humanities/events/schoolabsencesandthepovertyrelatedattainmentgap/) 
-
-
-***2021***
-
-Together with Dr Markus Gehrsitz (University of Strathclyde), we organised the Strathclyde Engage Event [Data Can Tell Us ‘What Works’ in Education: Insights from Quantitative Education Research] (https://www.engage.strath.ac.uk/event/804).
-
-***2019***
-
-We presented first results from our project at the Engage Strathclyde event [Who is Missing Out on School? The Role of School Absenteeism in the Poverty-Related Attainment Gap](https://www.engage.strath.ac.uk/event/604).
+We submitted [Written Evidence](https://committees.parliament.uk/writtenevidence/117933/pdf/) to the UK Parliament Education Committee on persistent absence and support for disadvantaged pupils.
 
 <br>
+
 
 # Invited Talks/Keynotes
 
 ***2026***
+
+Invited talk "The short- and long-term consequences of school absenteeism" at the Workshop Bridging Education Research and Policy: Evidence, Practice, and Priorities, University of Glasgow
+
+Invited talk "Causes and Consequences of School Absenteeism" at the conference Transformative Leadership for Social Justice: Bridging Research and Practice in Scotland, University of Strathclyde
 
 Invited talk "How Behaviour and Motivation Mediate the Impact of Absences on Achievement" at Wolfson College, University of Cambridge
 
@@ -95,6 +103,47 @@ Invited talk in the School of Education Seminer Series at the University of Glas
 
 <br>
 
+
+# Knowledge Exchange (KE) Events
+
+***2026***
+
+School Attendance engagement event with school leaders across Scotland. The event was organised in cooperation with the School Attendance Network in the Strathclyde Institute of Education
+
+***2025***
+
+Participation in the Department for Education (DfE) roundtable on School Attendance (January 2025)
+
+
+***2024***
+
+In collaboration with the Scottish Government and Education Scotland, we organised the KE event ”Promoting School Attendance: Questions for Research, Policy, and Practice” at the University of Strathclyde (September 2024).
+
+We organised the Symposium "Understanding the multifaceted impact of pupil absences on academic achievement: Timing, trajectories, psychosocial pathways and sociodemographic differences" at the BPS Psychology of Education Annual Conference at the University of Cambridge (September 2024).
+
+We organised the Knowledge Exchange events "Understanding School Attendance, Education, and Labour Market Outcomes" summarising findings from our Nuffield Foundation project and providing key policy and practice implications in Cardiff (23rd April) and Manchester (25th April).
+
+
+***2023***
+
+We organised the event "Absenteeism and exclusion research - What next?" for policymakers and practitioners together with Prof Gillean McCluskey and Dr Annie Taylor (University of Edinburgh) from the Excluded Lives project (06 June).
+
+
+***2022***
+
+Together with Poverty Alliance and General Teaching Council for Scotland (GTCS), we organised the Webinar [School absences and the poverty-related attainment gap](https://www.strath.ac.uk/humanities/events/schoolabsencesandthepovertyrelatedattainmentgap/) 
+
+
+***2021***
+
+Together with Dr Markus Gehrsitz (University of Strathclyde), we organised the Strathclyde Engage Event [Data Can Tell Us ‘What Works’ in Education: Insights from Quantitative Education Research] (https://www.engage.strath.ac.uk/event/804).
+
+***2019***
+
+We presented first results from our project at the Engage Strathclyde event [Who is Missing Out on School? The Role of School Absenteeism in the Poverty-Related Attainment Gap](https://www.engage.strath.ac.uk/event/604).
+
+<br>
+
 # Videos & podcasts
 
 ***2022***
@@ -113,25 +162,6 @@ We published a [podcast](https://sway.office.com/x5EJ7G2hrOjsTgnG?ref=Link) summ
 
 <br>
 
-
-# Policy Impact
-
-***2025***
-
-The [Scottish Government's School attendance Guidance Working Group](https://www.gov.scot/publications/school-attendance-guidance-working-group-terms-of-reference/) draws on our research evidence to support development of refreshed guidance on school attendance
-
-[Ofsted](https://www.gov.uk/government/consultations/improving-the-way-ofsted-inspects-education/improving-the-way-ofsted-inspects-education-supporting-evidence-base) has used our research evidence to inform and develop the design of their toolkits, the proposed inspection methodology and inspector training.
-
-
-***2023***
-
-We were invited to present evidence at the [06 December meeting of the All Party Parliamentary Group (APPG) for Parental Participation in Education with a focus on school attendance](https://www.parentkind.org.uk/research-and-policy/education-policy/policy-in-england/all-party-parliamentary-group-for-england/appg-6th-december-2023)
-
-We submitted [Written Evidence](https://committees.parliament.uk/writtenevidence/117933/pdf/) to the UK Parliament Education Committee on persistent absence and support for disadvantaged pupils.
-
-
-
-<br>
 
 # Media & Blogs
 
@@ -189,9 +219,17 @@ We published the blog post [School Attendance and the Poverty-related Attainment
 
 # Conference presentations
 
+***2026***
+
+"How internalising behaviour mediates the impact of family income on school absences" was presented at the European Consortium for Sociological Research Annual Conference, Dublin (June 2026)
+
+"Socioeconomic Status and Trajectories in School Absences: A Latent Growth Curve Analysis" was presented at the ISA RC28 Spring Meeting 2026, Seville (May 2026)
+
+
+
 ***2025***
 
-"Socioeconomic status, school absences, and academic achievement - A causal mediation analysis" was presented at the ISA Spring Meeting 2025, Milan (March 2025)
+"Socioeconomic status, school absences, and academic achievement - A causal mediation analysis" was presented at the ISA RC28 Spring Meeting 2025, Milan (March 2025)
 
 ***2024***
 
